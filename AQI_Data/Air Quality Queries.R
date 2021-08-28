@@ -87,3 +87,8 @@ df_observations <- {path_historical_obs %>%
     data.frame()} # Load JSON as data frame
 
 head(df_observations)
+
+Obs_2021 <- rbind(df_observations, Observations_01072021)
+unique(Obs_2021[,2])
+
+save(Obs_2021, file="C:/Users/willi/OneDrive/Desktop/2021.Rda")
