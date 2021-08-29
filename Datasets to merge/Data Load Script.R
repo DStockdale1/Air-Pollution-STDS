@@ -22,7 +22,11 @@ Traffic_Data <- read_csv("Raw Data/Traffic_Volume_Viewer_2007-2021.csv",
 
 {
   load("Datasets to merge/Raw Data/AQI_Data.Rda")
-} # Load AQI Data. Will simplify and average to monthly this afternoon
+} # Load AQI Data
+
+AQI_Summarized_Data <- AQI_Summarized_Data %>% 
+  merge(df_site_details)
+
 
 
 # This is a demonstration of how to join the data so you can easily compare the different datasets
