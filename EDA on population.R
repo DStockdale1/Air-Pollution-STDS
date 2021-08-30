@@ -14,7 +14,7 @@ library(scales)
 getwd()
 
 #Read CSV file
-LGA<-read.csv("ABS_ERP_LGA2019_27082021235324501.csv")
+LGA<-read.csv("ABS_LGA_Population_2001_2019.csv")
 
 
 #Check columns' name
