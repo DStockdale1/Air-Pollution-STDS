@@ -8,30 +8,16 @@ library(zoo)
 library(corrplot)
 library(ggplot2)
 library(scales)
+library(reshape)
+
 
 
 
 
 str(AQI_Summarized_Data)
-particles <- AQI_Summarized_Data %>%  filter(Parameter.ParameterCode == c("NO","NO2"))
+particles <- AQI_Summarized_Data %>%  filter(Parameter.ParameterCode == c("NO","NO2","OZONE","PM10","CO"))
 particles<- arrange(particles,Parameter.ParameterCode )
 
-
-
-
-
-ggp <- ggplot(particles, aes(Parameter.ParameterCode, Region)) +                          
-  geom_tile(aes(fill = Value))
-ggp    
-
-
-
-rm(particles)
-
-
-str(AQI_Summarized_Data)
-particles <- AQI_Summarized_Data %>%  filter(Parameter.ParameterCode == c("NO","NO2","OZONE","PM10","CO", "TEMP"))
-particles<- arrange(particles,Parameter.ParameterCode )
 
 getwd()
 
@@ -45,8 +31,21 @@ particles$Value <-ifelse(particles$Parameter.Units =="µg/m³",particles$Value *
 particles$Parameter.Units[particles$Parameter.Units %in% "µg/m³"] <- "ppm"
 particles$Parameter.Units[particles$Parameter.Units %in% "pphm"] <- "ppm"
 
+
+#Heatmap by Region
 ggp <- ggplot(particles, aes(Parameter.ParameterCode, Region)) +                          
   geom_tile(aes(fill = Value))
-ggp    
+ggp 
+
+#Heatmap by Year
+ggp <- ggplot(particles, aes(Parameter.ParameterCode, Year)) +                          
+  geom_tile(aes(fill = Value))
+ggp
+
+#Heatmap by SiteName
+ggp <- ggplot(particles, aes(Parameter.ParameterCode, SiteName)) +                          
+  geom_tile(aes(fill = Value))
+ggp
+
 
   

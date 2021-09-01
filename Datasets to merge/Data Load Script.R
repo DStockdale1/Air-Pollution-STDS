@@ -23,7 +23,12 @@ Traffic_Data <- read_csv("Traffic_Volume_Viewer_2007-2021.csv",
 
 
 {
+<<<<<<< HEAD
   load("AQI_Data.Rda")
+=======
+  load("Datasets to merge/Raw Data/AQI_Data.Rda")
+  load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
+>>>>>>> f6ab82fafe7937dd41781c0a7b3a2be482bf3046
 } # Load AQI Data
 
 AQI_Summarized_Data <- AQI_Summarized_Data %>% 
