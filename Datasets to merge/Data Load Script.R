@@ -5,26 +5,37 @@ library(leaflet)
 
 # This script loads the data sets we will be using (except the zoning until we find that)
 
-Population_Data <- read_csv("Raw Data/Population_Data.csv", 
+setwd("C:/Users/NASA/Desktop/UTS-MDSI/36103 Statistical Thinking for Data Science/AT2/Air-Pollution/Datasets to merge/Raw Data")
+
+Population_Data <- read_csv("Population_Data.csv", 
                             col_types = cols(MEASURE = col_skip(), 
                                              Measure = col_skip(), REGIONTYPE = col_skip(), 
                                              `Geography Level` = col_skip(), FREQUENCY = col_skip(), 
                                              Frequency = col_skip(), TIME = col_skip(), 
                                              `Flag Codes` = col_skip(), Flags = col_skip()))
 
-Traffic_Data <- read_csv("Raw Data/Traffic_Volume_Viewer_2007-2021.csv", 
+Traffic_Data <- read_csv("Traffic_Volume_Viewer_2007-2021.csv", 
                          col_types = cols(the_geom = col_skip()))
 
 {
-  load("Raw Data/Pollutants_Data.Rda") # Pollution Data
+  load("Pollutants_Data.Rda") # Pollution Data
   Pollutants_Data <- Pollutants_Data %>% 
     mutate(Year = str_sub(report_year, -4, -1))
 } # Load Pollutants Data
 
 
 {
+<<<<<<< HEAD
   load("Raw Data/AQI_Data.Rda")
   load("Raw Data/AQI Data/Air Quality Site Details.Rda")
+=======
+<<<<<<< HEAD
+  load("AQI_Data.Rda")
+=======
+  load("Datasets to merge/Raw Data/AQI_Data.Rda")
+  load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
+>>>>>>> f6ab82fafe7937dd41781c0a7b3a2be482bf3046
+>>>>>>> 427b875c1cd8eaa085a1de918780b454de949a61
 } # Load AQI Data
 
 AQI_Summarized_Data <- AQI_Summarized_Data %>% 
