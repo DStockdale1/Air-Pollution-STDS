@@ -14,7 +14,7 @@ Population_Data <- read_csv("Population_Data.csv",
                                              Frequency = col_skip(), TIME = col_skip(), 
                                              `Flag Codes` = col_skip(), Flags = col_skip()))
 
-Traffic_Data <- read_csv("Traffic_Volume_Viewer_2007-2021.csv", 
+Traffic_Data <- read_csv("Datasets to merge/Raw Data/Traffic_Volume_Viewer_2007-2021.csv", 
                          col_types = cols(the_geom = col_skip()))
 
 {
@@ -25,17 +25,15 @@ Traffic_Data <- read_csv("Traffic_Volume_Viewer_2007-2021.csv",
 
 
 {
-<<<<<<< HEAD
-  load("Raw Data/AQI_Data.Rda")
+
+  load("Datasets to merge/Raw Data/AQI_Data.Rda")
   load("Raw Data/AQI Data/Air Quality Site Details.Rda")
-=======
-<<<<<<< HEAD
+
   load("AQI_Data.Rda")
-=======
+
   load("Datasets to merge/Raw Data/AQI_Data.Rda")
   load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
->>>>>>> f6ab82fafe7937dd41781c0a7b3a2be482bf3046
->>>>>>> 427b875c1cd8eaa085a1de918780b454de949a61
+
 } # Load AQI Data
 
 AQI_Summarized_Data <- AQI_Summarized_Data %>% 
