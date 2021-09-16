@@ -18,7 +18,7 @@ Traffic_Data <- read_csv("Datasets to merge/Raw Data/Traffic_Volume_Viewer_2007-
                          col_types = cols(the_geom = col_skip()))
 
 {
-  load("Pollutants_Data.Rda") # Pollution Data
+  load("Datasets to merge/Raw Data/Pollutants_Data.Rda") # Pollution Data
   Pollutants_Data <- Pollutants_Data %>% 
     mutate(Year = str_sub(report_year, -4, -1))
 } # Load Pollutants Data
