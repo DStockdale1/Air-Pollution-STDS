@@ -1,7 +1,5 @@
 library(tidyverse)
 library(readxl)
-library(geosphere)
-library(leaflet)
 
 # This script loads the data sets we will be using (except the zoning until we find that)
 
@@ -14,26 +12,29 @@ Population_Data <- read_csv("Population_Data.csv",
                                              Frequency = col_skip(), TIME = col_skip(), 
                                              `Flag Codes` = col_skip(), Flags = col_skip()))
 
-Traffic_Data <- read_csv("Datasets to merge/Raw Data/Traffic_Volume_Viewer_2007-2021.csv", 
+Traffic_Data <- read_csv("Traffic_Volume_Viewer_2007-2021.csv", 
                          col_types = cols(the_geom = col_skip()))
+
+
+Suburb_LGA <- read_xlsx("Suburb_and_LGA_PercentageArea.xlsx")
+  
 
 {
   load("Datasets to merge/Raw Data/Pollutants_Data.Rda") # Pollution Data
   Pollutants_Data <- Pollutants_Data %>% 
     mutate(Year = str_sub(report_year, -4, -1))
+  
+  
 } # Load Pollutants Data
 
 
 {
-
-  load("Datasets to merge/Raw Data/AQI_Data.Rda")
-  load("Raw Data/AQI Data/Air Quality Site Details.Rda")
-
+<<<<<<< HEAD
   load("AQI_Data.Rda")
-
+=======
   load("Datasets to merge/Raw Data/AQI_Data.Rda")
   load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
-
+>>>>>>> f6ab82fafe7937dd41781c0a7b3a2be482bf3046
 } # Load AQI Data
 
 AQI_Summarized_Data <- AQI_Summarized_Data %>% 
@@ -55,26 +56,3 @@ Randwick <- df_site_details %>%
   + select(SiteName, Longitude, Latitude)
 
 distHaversine(c(Randwick$Longitude, Randwick$Latitude), c(Rozelle$Longitude, Rozelle$Latitude)) # Result is in metres
-
-distHaversine(c(AQI_Summarized_Data$Longitude, AQI_Summarized_Data$Latitude), c(Traffic_Data$wgs84_longitude, Traffic_Data$wgs84_latitude))
-
-AQI_Sites <- AQI_Summarized_Data %>% 
-  transmute(AQI_Site_Id = Site_Id, AQI_Long = Longitude, AQI_Lat = Latitude) %>% 
-  distinct(AQI_Site_Id, AQI_Long, AQI_Lat)
-
-Traffic_Sites <- Traffic_Data %>%
-  transmute(Traffic_Site_Id = station_id, Traff_Long = wgs84_longitude, Traff_Lat = wgs84_latitude) %>% 
-  distinct(Traffic_Site_Id, Traff_Long, Traff_Lat)
-
-my_distm <- function(long1, lat1, long2, lat2)
-  distm(c(long1, lat1), c(long2, lat2), fun=distHaversine)
-
-Crossjoined_AQI_Traffic <- merge(AQI_Sites, Traffic_Sites) %>% 
-  arrange(AQI_Site_Id) %>% 
-  rowwise() %>% 
-  mutate(distance = my_distm(AQI_Long, AQI_Lat, Traff_Long, Traff_Lat)/1000)
-
-boxplot(Crossjoined_AQI_Traffic$distance)
-
-
-
