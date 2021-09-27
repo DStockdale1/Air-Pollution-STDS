@@ -1,0 +1,2509 @@
+"LGA_2019","Region","Time","Value"
+1,"New South Wales",2001,6530349
+1,"New South Wales",2002,6580807
+1,"New South Wales",2003,6620715
+1,"New South Wales",2004,6650735
+1,"New South Wales",2005,6693206
+1,"New South Wales",2006,6742690
+1,"New South Wales",2007,6834156
+1,"New South Wales",2008,6943461
+1,"New South Wales",2009,7053755
+1,"New South Wales",2010,7144292
+1,"New South Wales",2011,7218529
+1,"New South Wales",2012,7304244
+1,"New South Wales",2013,7404032
+1,"New South Wales",2014,7508353
+1,"New South Wales",2015,7616168
+1,"New South Wales",2016,7732858
+1,"New South Wales",2017,7867936
+1,"New South Wales",2018,7980168
+1,"New South Wales",2019,8089817
+10050,"Albury (C)",2001,45265
+10050,"Albury (C)",2002,45816
+10050,"Albury (C)",2003,46180
+10050,"Albury (C)",2004,46505
+10050,"Albury (C)",2005,47004
+10050,"Albury (C)",2006,47566
+10050,"Albury (C)",2007,48140
+10050,"Albury (C)",2008,48518
+10050,"Albury (C)",2009,48814
+10050,"Albury (C)",2010,49222
+10050,"Albury (C)",2011,49451
+10050,"Albury (C)",2012,49785
+10050,"Albury (C)",2013,50338
+10050,"Albury (C)",2014,50990
+10050,"Albury (C)",2015,51486
+10050,"Albury (C)",2016,52171
+10050,"Albury (C)",2017,52989
+10050,"Albury (C)",2018,53705
+10050,"Albury (C)",2019,54353
+10130,"Armidale Regional (A)",2001,29058
+10130,"Armidale Regional (A)",2002,28920
+10130,"Armidale Regional (A)",2003,28739
+10130,"Armidale Regional (A)",2004,28524
+10130,"Armidale Regional (A)",2005,28459
+10130,"Armidale Regional (A)",2006,28479
+10130,"Armidale Regional (A)",2007,28599
+10130,"Armidale Regional (A)",2008,28923
+10130,"Armidale Regional (A)",2009,29281
+10130,"Armidale Regional (A)",2010,29524
+10130,"Armidale Regional (A)",2011,29678
+10130,"Armidale Regional (A)",2012,29836
+10130,"Armidale Regional (A)",2013,29983
+10130,"Armidale Regional (A)",2014,30085
+10130,"Armidale Regional (A)",2015,30193
+10130,"Armidale Regional (A)",2016,30313
+10130,"Armidale Regional (A)",2017,30617
+10130,"Armidale Regional (A)",2018,30681
+10130,"Armidale Regional (A)",2019,30779
+10250,"Ballina (A)",2001,37856
+10250,"Ballina (A)",2002,38417
+10250,"Ballina (A)",2003,38870
+10250,"Ballina (A)",2004,39120
+10250,"Ballina (A)",2005,39305
+10250,"Ballina (A)",2006,39537
+10250,"Ballina (A)",2007,39824
+10250,"Ballina (A)",2008,40020
+10250,"Ballina (A)",2009,40295
+10250,"Ballina (A)",2010,40571
+10250,"Ballina (A)",2011,40747
+10250,"Ballina (A)",2012,41118
+10250,"Ballina (A)",2013,41510
+10250,"Ballina (A)",2014,41881
+10250,"Ballina (A)",2015,42336
+10250,"Ballina (A)",2016,42993
+10250,"Ballina (A)",2017,43480
+10250,"Ballina (A)",2018,44172
+10250,"Ballina (A)",2019,44628
+10300,"Balranald (A)",2001,2751
+10300,"Balranald (A)",2002,2703
+10300,"Balranald (A)",2003,2661
+10300,"Balranald (A)",2004,2596
+10300,"Balranald (A)",2005,2545
+10300,"Balranald (A)",2006,2507
+10300,"Balranald (A)",2007,2473
+10300,"Balranald (A)",2008,2433
+10300,"Balranald (A)",2009,2404
+10300,"Balranald (A)",2010,2381
+10300,"Balranald (A)",2011,2353
+10300,"Balranald (A)",2012,2363
+10300,"Balranald (A)",2013,2381
+10300,"Balranald (A)",2014,2376
+10300,"Balranald (A)",2015,2364
+10300,"Balranald (A)",2016,2330
+10300,"Balranald (A)",2017,2343
+10300,"Balranald (A)",2018,2338
+10300,"Balranald (A)",2019,2338
+10470,"Bathurst Regional (A)",2001,35504
+10470,"Bathurst Regional (A)",2002,35831
+10470,"Bathurst Regional (A)",2003,36084
+10470,"Bathurst Regional (A)",2004,36245
+10470,"Bathurst Regional (A)",2005,36547
+10470,"Bathurst Regional (A)",2006,36916
+10470,"Bathurst Regional (A)",2007,37272
+10470,"Bathurst Regional (A)",2008,37904
+10470,"Bathurst Regional (A)",2009,38848
+10470,"Bathurst Regional (A)",2010,39484
+10470,"Bathurst Regional (A)",2011,39960
+10470,"Bathurst Regional (A)",2012,40301
+10470,"Bathurst Regional (A)",2013,40727
+10470,"Bathurst Regional (A)",2014,41157
+10470,"Bathurst Regional (A)",2015,41694
+10470,"Bathurst Regional (A)",2016,42244
+10470,"Bathurst Regional (A)",2017,42806
+10470,"Bathurst Regional (A)",2018,43163
+10470,"Bathurst Regional (A)",2019,43618
+10500,"Bayside (A)",2001,129075
+10500,"Bayside (A)",2002,129377
+10500,"Bayside (A)",2003,130598
+10500,"Bayside (A)",2004,131144
+10500,"Bayside (A)",2005,132112
+10500,"Bayside (A)",2006,133205
+10500,"Bayside (A)",2007,135831
+10500,"Bayside (A)",2008,139556
+10500,"Bayside (A)",2009,142527
+10500,"Bayside (A)",2010,144295
+10500,"Bayside (A)",2011,144985
+10500,"Bayside (A)",2012,148028
+10500,"Bayside (A)",2013,151309
+10500,"Bayside (A)",2014,154980
+10500,"Bayside (A)",2015,159222
+10500,"Bayside (A)",2016,164534
+10500,"Bayside (A)",2017,170266
+10500,"Bayside (A)",2018,174218
+10500,"Bayside (A)",2019,178396
+10550,"Bega Valley (A)",2001,30425
+10550,"Bega Valley (A)",2002,30790
+10550,"Bega Valley (A)",2003,31056
+10550,"Bega Valley (A)",2004,31406
+10550,"Bega Valley (A)",2005,31608
+10550,"Bega Valley (A)",2006,31829
+10550,"Bega Valley (A)",2007,32183
+10550,"Bega Valley (A)",2008,32367
+10550,"Bega Valley (A)",2009,32620
+10550,"Bega Valley (A)",2010,32962
+10550,"Bega Valley (A)",2011,33128
+10550,"Bega Valley (A)",2012,33288
+10550,"Bega Valley (A)",2013,33430
+10550,"Bega Valley (A)",2014,33562
+10550,"Bega Valley (A)",2015,33713
+10550,"Bega Valley (A)",2016,33941
+10550,"Bega Valley (A)",2017,34117
+10550,"Bega Valley (A)",2018,34315
+10550,"Bega Valley (A)",2019,34476
+10600,"Bellingen (A)",2001,12634
+10600,"Bellingen (A)",2002,12673
+10600,"Bellingen (A)",2003,12705
+10600,"Bellingen (A)",2004,12672
+10600,"Bellingen (A)",2005,12682
+10600,"Bellingen (A)",2006,12716
+10600,"Bellingen (A)",2007,12773
+10600,"Bellingen (A)",2008,12787
+10600,"Bellingen (A)",2009,12837
+10600,"Bellingen (A)",2010,12891
+10600,"Bellingen (A)",2011,12923
+10600,"Bellingen (A)",2012,12909
+10600,"Bellingen (A)",2013,12920
+10600,"Bellingen (A)",2014,12929
+10600,"Bellingen (A)",2015,12936
+10600,"Bellingen (A)",2016,12951
+10600,"Bellingen (A)",2017,12951
+10600,"Bellingen (A)",2018,12953
+10600,"Bellingen (A)",2019,12996
+10650,"Berrigan (A)",2001,8075
+10650,"Berrigan (A)",2002,8058
+10650,"Berrigan (A)",2003,8035
+10650,"Berrigan (A)",2004,8014
+10650,"Berrigan (A)",2005,8076
+10650,"Berrigan (A)",2006,8160
+10650,"Berrigan (A)",2007,8204
+10650,"Berrigan (A)",2008,8237
+10650,"Berrigan (A)",2009,8282
+10650,"Berrigan (A)",2010,8291
+10650,"Berrigan (A)",2011,8297
+10650,"Berrigan (A)",2012,8365
+10650,"Berrigan (A)",2013,8436
+10650,"Berrigan (A)",2014,8519
+10650,"Berrigan (A)",2015,8568
+10650,"Berrigan (A)",2016,8609
+10650,"Berrigan (A)",2017,8667
+10650,"Berrigan (A)",2018,8700
+10650,"Berrigan (A)",2019,8750
+10750,"Blacktown (C)",2001,263103
+10750,"Blacktown (C)",2002,267048
+10750,"Blacktown (C)",2003,268806
+10750,"Blacktown (C)",2004,271434
+10750,"Blacktown (C)",2005,275206
+10750,"Blacktown (C)",2006,278894
+10750,"Blacktown (C)",2007,284925
+10750,"Blacktown (C)",2008,292002
+10750,"Blacktown (C)",2009,299450
+10750,"Blacktown (C)",2010,306601
+10750,"Blacktown (C)",2011,312346
+10750,"Blacktown (C)",2012,317735
+10750,"Blacktown (C)",2013,324797
+10750,"Blacktown (C)",2014,331825
+10750,"Blacktown (C)",2015,339449
+10750,"Blacktown (C)",2016,348030
+10750,"Blacktown (C)",2017,357839
+10750,"Blacktown (C)",2018,366078
+10750,"Blacktown (C)",2019,374451
+10800,"Bland (A)",2001,6603
+10800,"Bland (A)",2002,6529
+10800,"Bland (A)",2003,6453
+10800,"Bland (A)",2004,6360
+10800,"Bland (A)",2005,6263
+10800,"Bland (A)",2006,6212
+10800,"Bland (A)",2007,6178
+10800,"Bland (A)",2008,6113
+10800,"Bland (A)",2009,6101
+10800,"Bland (A)",2010,6049
+10800,"Bland (A)",2011,6021
+10800,"Bland (A)",2012,6034
+10800,"Bland (A)",2013,6028
+10800,"Bland (A)",2014,6034
+10800,"Bland (A)",2015,6027
+10800,"Bland (A)",2016,6024
+10800,"Bland (A)",2017,5988
+10800,"Bland (A)",2018,5979
+10800,"Bland (A)",2019,5972
+10850,"Blayney (A)",2001,6478
+10850,"Blayney (A)",2002,6545
+10850,"Blayney (A)",2003,6562
+10850,"Blayney (A)",2004,6598
+10850,"Blayney (A)",2005,6649
+10850,"Blayney (A)",2006,6741
+10850,"Blayney (A)",2007,6821
+10850,"Blayney (A)",2008,6900
+10850,"Blayney (A)",2009,7041
+10850,"Blayney (A)",2010,7143
+10850,"Blayney (A)",2011,7217
+10850,"Blayney (A)",2012,7274
+10850,"Blayney (A)",2013,7303
+10850,"Blayney (A)",2014,7322
+10850,"Blayney (A)",2015,7322
+10850,"Blayney (A)",2016,7343
+10850,"Blayney (A)",2017,7350
+10850,"Blayney (A)",2018,7334
+10850,"Blayney (A)",2019,7379
+10900,"Blue Mountains (C)",2001,76528
+10900,"Blue Mountains (C)",2002,76656
+10900,"Blue Mountains (C)",2003,76651
+10900,"Blue Mountains (C)",2004,76436
+10900,"Blue Mountains (C)",2005,75971
+10900,"Blue Mountains (C)",2006,75600
+10900,"Blue Mountains (C)",2007,76198
+10900,"Blue Mountains (C)",2008,77102
+10900,"Blue Mountains (C)",2009,77869
+10900,"Blue Mountains (C)",2010,78227
+10900,"Blue Mountains (C)",2011,78553
+10900,"Blue Mountains (C)",2012,78532
+10900,"Blue Mountains (C)",2013,78705
+10900,"Blue Mountains (C)",2014,78867
+10900,"Blue Mountains (C)",2015,78889
+10900,"Blue Mountains (C)",2016,78835
+10900,"Blue Mountains (C)",2017,79012
+10900,"Blue Mountains (C)",2018,79191
+10900,"Blue Mountains (C)",2019,79118
+10950,"Bogan (A)",2001,3156
+10950,"Bogan (A)",2002,3105
+10950,"Bogan (A)",2003,3052
+10950,"Bogan (A)",2004,3027
+10950,"Bogan (A)",2005,2964
+10950,"Bogan (A)",2006,2939
+10950,"Bogan (A)",2007,2972
+10950,"Bogan (A)",2008,2992
+10950,"Bogan (A)",2009,2999
+10950,"Bogan (A)",2010,3013
+10950,"Bogan (A)",2011,3009
+10950,"Bogan (A)",2012,2982
+10950,"Bogan (A)",2013,2926
+10950,"Bogan (A)",2014,2894
+10950,"Bogan (A)",2015,2846
+10950,"Bogan (A)",2016,2764
+10950,"Bogan (A)",2017,2666
+10950,"Bogan (A)",2018,2618
+10950,"Bogan (A)",2019,2580
+11150,"Bourke (A)",2001,3919
+11150,"Bourke (A)",2002,3781
+11150,"Bourke (A)",2003,3642
+11150,"Bourke (A)",2004,3494
+11150,"Bourke (A)",2005,3349
+11150,"Bourke (A)",2006,3185
+11150,"Bourke (A)",2007,3073
+11150,"Bourke (A)",2008,3046
+11150,"Bourke (A)",2009,3013
+11150,"Bourke (A)",2010,3033
+11150,"Bourke (A)",2011,3053
+11150,"Bourke (A)",2012,2998
+11150,"Bourke (A)",2013,2903
+11150,"Bourke (A)",2014,2870
+11150,"Bourke (A)",2015,2801
+11150,"Bourke (A)",2016,2762
+11150,"Bourke (A)",2017,2697
+11150,"Bourke (A)",2018,2626
+11150,"Bourke (A)",2019,2590
+11200,"Brewarrina (A)",2001,2148
+11200,"Brewarrina (A)",2002,2121
+11200,"Brewarrina (A)",2003,2078
+11200,"Brewarrina (A)",2004,2039
+11200,"Brewarrina (A)",2005,2029
+11200,"Brewarrina (A)",2006,2004
+11200,"Brewarrina (A)",2007,1961
+11200,"Brewarrina (A)",2008,1944
+11200,"Brewarrina (A)",2009,1900
+11200,"Brewarrina (A)",2010,1878
+11200,"Brewarrina (A)",2011,1874
+11200,"Brewarrina (A)",2012,1821
+11200,"Brewarrina (A)",2013,1830
+11200,"Brewarrina (A)",2014,1786
+11200,"Brewarrina (A)",2015,1762
+11200,"Brewarrina (A)",2016,1710
+11200,"Brewarrina (A)",2017,1671
+11200,"Brewarrina (A)",2018,1653
+11200,"Brewarrina (A)",2019,1611
+11250,"Broken Hill (C)",2001,20929
+11250,"Broken Hill (C)",2002,20681
+11250,"Broken Hill (C)",2003,20403
+11250,"Broken Hill (C)",2004,20111
+11250,"Broken Hill (C)",2005,19915
+11250,"Broken Hill (C)",2006,19753
+11250,"Broken Hill (C)",2007,19708
+11250,"Broken Hill (C)",2008,19604
+11250,"Broken Hill (C)",2009,19421
+11250,"Broken Hill (C)",2010,19267
+11250,"Broken Hill (C)",2011,19151
+11250,"Broken Hill (C)",2012,18985
+11250,"Broken Hill (C)",2013,18802
+11250,"Broken Hill (C)",2014,18627
+11250,"Broken Hill (C)",2015,18360
+11250,"Broken Hill (C)",2016,18114
+11250,"Broken Hill (C)",2017,17883
+11250,"Broken Hill (C)",2018,17715
+11250,"Broken Hill (C)",2019,17479
+11300,"Burwood (A)",2001,30393
+11300,"Burwood (A)",2002,30682
+11300,"Burwood (A)",2003,30980
+11300,"Burwood (A)",2004,31370
+11300,"Burwood (A)",2005,31696
+11300,"Burwood (A)",2006,32199
+11300,"Burwood (A)",2007,32893
+11300,"Burwood (A)",2008,33343
+11300,"Burwood (A)",2009,33708
+11300,"Burwood (A)",2010,33835
+11300,"Burwood (A)",2011,34176
+11300,"Burwood (A)",2012,35095
+11300,"Burwood (A)",2013,36145
+11300,"Burwood (A)",2014,37200
+11300,"Burwood (A)",2015,37822
+11300,"Burwood (A)",2016,38536
+11300,"Burwood (A)",2017,39348
+11300,"Burwood (A)",2018,39864
+11300,"Burwood (A)",2019,40612
+11350,"Byron (A)",2001,29453
+11350,"Byron (A)",2002,29697
+11350,"Byron (A)",2003,29952
+11350,"Byron (A)",2004,30141
+11350,"Byron (A)",2005,30130
+11350,"Byron (A)",2006,30125
+11350,"Byron (A)",2007,30174
+11350,"Byron (A)",2008,30347
+11350,"Byron (A)",2009,30537
+11350,"Byron (A)",2010,30664
+11350,"Byron (A)",2011,30712
+11350,"Byron (A)",2012,31210
+11350,"Byron (A)",2013,31756
+11350,"Byron (A)",2014,32263
+11350,"Byron (A)",2015,32803
+11350,"Byron (A)",2016,33399
+11350,"Byron (A)",2017,34011
+11350,"Byron (A)",2018,34545
+11350,"Byron (A)",2019,35081
+11400,"Cabonne (A)",2001,12447
+11400,"Cabonne (A)",2002,12478
+11400,"Cabonne (A)",2003,12482
+11400,"Cabonne (A)",2004,12506
+11400,"Cabonne (A)",2005,12543
+11400,"Cabonne (A)",2006,12634
+11400,"Cabonne (A)",2007,12706
+11400,"Cabonne (A)",2008,12799
+11400,"Cabonne (A)",2009,12929
+11400,"Cabonne (A)",2010,13071
+11400,"Cabonne (A)",2011,13211
+11400,"Cabonne (A)",2012,13322
+11400,"Cabonne (A)",2013,13473
+11400,"Cabonne (A)",2014,13506
+11400,"Cabonne (A)",2015,13511
+11400,"Cabonne (A)",2016,13577
+11400,"Cabonne (A)",2017,13612
+11400,"Cabonne (A)",2018,13667
+11400,"Cabonne (A)",2019,13634
+11450,"Camden (A)",2001,45163
+11450,"Camden (A)",2002,47172
+11450,"Camden (A)",2003,48441
+11450,"Camden (A)",2004,48925
+11450,"Camden (A)",2005,49990
+11450,"Camden (A)",2006,50628
+11450,"Camden (A)",2007,52178
+11450,"Camden (A)",2008,53736
+11450,"Camden (A)",2009,55377
+11450,"Camden (A)",2010,56846
+11450,"Camden (A)",2011,58439
+11450,"Camden (A)",2012,61127
+11450,"Camden (A)",2013,64093
+11450,"Camden (A)",2014,68642
+11450,"Camden (A)",2015,74100
+11450,"Camden (A)",2016,80264
+11450,"Camden (A)",2017,87146
+11450,"Camden (A)",2018,94029
+11450,"Camden (A)",2019,101437
+11500,"Campbelltown (C) (NSW)",2001,149192
+11500,"Campbelltown (C) (NSW)",2002,149100
+11500,"Campbelltown (C) (NSW)",2003,148743
+11500,"Campbelltown (C) (NSW)",2004,147587
+11500,"Campbelltown (C) (NSW)",2005,147220
+11500,"Campbelltown (C) (NSW)",2006,146538
+11500,"Campbelltown (C) (NSW)",2007,147159
+11500,"Campbelltown (C) (NSW)",2008,148407
+11500,"Campbelltown (C) (NSW)",2009,149986
+11500,"Campbelltown (C) (NSW)",2010,150318
+11500,"Campbelltown (C) (NSW)",2011,151173
+11500,"Campbelltown (C) (NSW)",2012,152452
+11500,"Campbelltown (C) (NSW)",2013,154348
+11500,"Campbelltown (C) (NSW)",2014,156292
+11500,"Campbelltown (C) (NSW)",2015,158589
+11500,"Campbelltown (C) (NSW)",2016,161566
+11500,"Campbelltown (C) (NSW)",2017,164649
+11500,"Campbelltown (C) (NSW)",2018,167930
+11500,"Campbelltown (C) (NSW)",2019,170943
+11520,"Canada Bay (A)",2001,61940
+11520,"Canada Bay (A)",2002,63077
+11520,"Canada Bay (A)",2003,64060
+11520,"Canada Bay (A)",2004,65350
+11520,"Canada Bay (A)",2005,66951
+11520,"Canada Bay (A)",2006,68309
+11520,"Canada Bay (A)",2007,70196
+11520,"Canada Bay (A)",2008,72320
+11520,"Canada Bay (A)",2009,75332
+11520,"Canada Bay (A)",2010,77709
+11520,"Canada Bay (A)",2011,80065
+11520,"Canada Bay (A)",2012,82636
+11520,"Canada Bay (A)",2013,85568
+11520,"Canada Bay (A)",2014,88565
+11520,"Canada Bay (A)",2015,90467
+11520,"Canada Bay (A)",2016,92534
+11520,"Canada Bay (A)",2017,94240
+11520,"Canada Bay (A)",2018,95064
+11520,"Canada Bay (A)",2019,96074
+11570,"Canterbury-Bankstown (A)",2001,307592
+11570,"Canterbury-Bankstown (A)",2002,307011
+11570,"Canterbury-Bankstown (A)",2003,306316
+11570,"Canterbury-Bankstown (A)",2004,305670
+11570,"Canterbury-Bankstown (A)",2005,307118
+11570,"Canterbury-Bankstown (A)",2006,310578
+11570,"Canterbury-Bankstown (A)",2007,316155
+11570,"Canterbury-Bankstown (A)",2008,322404
+11570,"Canterbury-Bankstown (A)",2009,327793
+11570,"Canterbury-Bankstown (A)",2010,332118
+11570,"Canterbury-Bankstown (A)",2011,335940
+11570,"Canterbury-Bankstown (A)",2012,340387
+11570,"Canterbury-Bankstown (A)",2013,345692
+11570,"Canterbury-Bankstown (A)",2014,350922
+11570,"Canterbury-Bankstown (A)",2015,356328
+11570,"Canterbury-Bankstown (A)",2016,361862
+11570,"Canterbury-Bankstown (A)",2017,368409
+11570,"Canterbury-Bankstown (A)",2018,373486
+11570,"Canterbury-Bankstown (A)",2019,377917
+11600,"Carrathool (A)",2001,3290
+11600,"Carrathool (A)",2002,3246
+11600,"Carrathool (A)",2003,3143
+11600,"Carrathool (A)",2004,3054
+11600,"Carrathool (A)",2005,2947
+11600,"Carrathool (A)",2006,2863
+11600,"Carrathool (A)",2007,2827
+11600,"Carrathool (A)",2008,2784
+11600,"Carrathool (A)",2009,2778
+11600,"Carrathool (A)",2010,2732
+11600,"Carrathool (A)",2011,2681
+11600,"Carrathool (A)",2012,2668
+11600,"Carrathool (A)",2013,2797
+11600,"Carrathool (A)",2014,2800
+11600,"Carrathool (A)",2015,2766
+11600,"Carrathool (A)",2016,2793
+11600,"Carrathool (A)",2017,2798
+11600,"Carrathool (A)",2018,2799
+11600,"Carrathool (A)",2019,2799
+11650,"Central Coast (C) (NSW)",2001,294596
+11650,"Central Coast (C) (NSW)",2002,297530
+11650,"Central Coast (C) (NSW)",2003,299319
+11650,"Central Coast (C) (NSW)",2004,299999
+11650,"Central Coast (C) (NSW)",2005,301403
+11650,"Central Coast (C) (NSW)",2006,303051
+11650,"Central Coast (C) (NSW)",2007,306499
+11650,"Central Coast (C) (NSW)",2008,312338
+11650,"Central Coast (C) (NSW)",2009,316796
+11650,"Central Coast (C) (NSW)",2010,320361
+11650,"Central Coast (C) (NSW)",2011,322657
+11650,"Central Coast (C) (NSW)",2012,325163
+11650,"Central Coast (C) (NSW)",2013,327745
+11650,"Central Coast (C) (NSW)",2014,330377
+11650,"Central Coast (C) (NSW)",2015,333264
+11650,"Central Coast (C) (NSW)",2016,336611
+11650,"Central Coast (C) (NSW)",2017,339394
+11650,"Central Coast (C) (NSW)",2018,341693
+11650,"Central Coast (C) (NSW)",2019,343968
+11700,"Central Darling (A)",2001,2432
+11700,"Central Darling (A)",2002,2326
+11700,"Central Darling (A)",2003,2218
+11700,"Central Darling (A)",2004,2163
+11700,"Central Darling (A)",2005,2096
+11700,"Central Darling (A)",2006,2000
+11700,"Central Darling (A)",2007,2003
+11700,"Central Darling (A)",2008,2003
+11700,"Central Darling (A)",2009,2029
+11700,"Central Darling (A)",2010,2045
+11700,"Central Darling (A)",2011,2059
+11700,"Central Darling (A)",2012,2015
+11700,"Central Darling (A)",2013,1979
+11700,"Central Darling (A)",2014,1934
+11700,"Central Darling (A)",2015,1923
+11700,"Central Darling (A)",2016,1881
+11700,"Central Darling (A)",2017,1847
+11700,"Central Darling (A)",2018,1835
+11700,"Central Darling (A)",2019,1839
+11720,"Cessnock (C)",2001,46823
+11720,"Cessnock (C)",2002,47024
+11720,"Cessnock (C)",2003,47181
+11720,"Cessnock (C)",2004,47266
+11720,"Cessnock (C)",2005,47305
+11720,"Cessnock (C)",2006,47426
+11720,"Cessnock (C)",2007,48302
+11720,"Cessnock (C)",2008,49303
+11720,"Cessnock (C)",2009,50218
+11720,"Cessnock (C)",2010,51304
+11720,"Cessnock (C)",2011,52485
+11720,"Cessnock (C)",2012,53318
+11720,"Cessnock (C)",2013,54303
+11720,"Cessnock (C)",2014,55103
+11720,"Cessnock (C)",2015,55888
+11720,"Cessnock (C)",2016,56720
+11720,"Cessnock (C)",2017,57561
+11720,"Cessnock (C)",2018,59029
+11720,"Cessnock (C)",2019,59985
+11730,"Clarence Valley (A)",2001,48247
+11730,"Clarence Valley (A)",2002,48415
+11730,"Clarence Valley (A)",2003,48509
+11730,"Clarence Valley (A)",2004,48631
+11730,"Clarence Valley (A)",2005,48853
+11730,"Clarence Valley (A)",2006,49149
+11730,"Clarence Valley (A)",2007,49524
+11730,"Clarence Valley (A)",2008,49818
+11730,"Clarence Valley (A)",2009,50433
+11730,"Clarence Valley (A)",2010,50993
+11730,"Clarence Valley (A)",2011,51287
+11730,"Clarence Valley (A)",2012,51350
+11730,"Clarence Valley (A)",2013,51443
+11730,"Clarence Valley (A)",2014,51498
+11730,"Clarence Valley (A)",2015,51547
+11730,"Clarence Valley (A)",2016,51622
+11730,"Clarence Valley (A)",2017,51596
+11730,"Clarence Valley (A)",2018,51598
+11730,"Clarence Valley (A)",2019,51662
+11750,"Cobar (A)",2001,5141
+11750,"Cobar (A)",2002,5127
+11750,"Cobar (A)",2003,5082
+11750,"Cobar (A)",2004,5037
+11750,"Cobar (A)",2005,5028
+11750,"Cobar (A)",2006,5044
+11750,"Cobar (A)",2007,5042
+11750,"Cobar (A)",2008,4988
+11750,"Cobar (A)",2009,4954
+11750,"Cobar (A)",2010,4946
+11750,"Cobar (A)",2011,4883
+11750,"Cobar (A)",2012,4857
+11750,"Cobar (A)",2013,4835
+11750,"Cobar (A)",2014,4821
+11750,"Cobar (A)",2015,4794
+11750,"Cobar (A)",2016,4775
+11750,"Cobar (A)",2017,4734
+11750,"Cobar (A)",2018,4715
+11750,"Cobar (A)",2019,4658
+11800,"Coffs Harbour (C)",2001,62582
+11800,"Coffs Harbour (C)",2002,63553
+11800,"Coffs Harbour (C)",2003,64574
+11800,"Coffs Harbour (C)",2004,65448
+11800,"Coffs Harbour (C)",2005,65957
+11800,"Coffs Harbour (C)",2006,66657
+11800,"Coffs Harbour (C)",2007,67567
+11800,"Coffs Harbour (C)",2008,68574
+11800,"Coffs Harbour (C)",2009,69358
+11800,"Coffs Harbour (C)",2010,70373
+11800,"Coffs Harbour (C)",2011,70972
+11800,"Coffs Harbour (C)",2012,71564
+11800,"Coffs Harbour (C)",2013,72303
+11800,"Coffs Harbour (C)",2014,73016
+11800,"Coffs Harbour (C)",2015,73739
+11800,"Coffs Harbour (C)",2016,74670
+11800,"Coffs Harbour (C)",2017,75552
+11800,"Coffs Harbour (C)",2018,76480
+11800,"Coffs Harbour (C)",2019,77277
+12000,"Coolamon (A)",2001,4090
+12000,"Coolamon (A)",2002,4078
+12000,"Coolamon (A)",2003,4072
+12000,"Coolamon (A)",2004,4066
+12000,"Coolamon (A)",2005,4072
+12000,"Coolamon (A)",2006,4097
+12000,"Coolamon (A)",2007,4116
+12000,"Coolamon (A)",2008,4145
+12000,"Coolamon (A)",2009,4187
+12000,"Coolamon (A)",2010,4216
+12000,"Coolamon (A)",2011,4236
+12000,"Coolamon (A)",2012,4278
+12000,"Coolamon (A)",2013,4328
+12000,"Coolamon (A)",2014,4357
+12000,"Coolamon (A)",2015,4366
+12000,"Coolamon (A)",2016,4390
+12000,"Coolamon (A)",2017,4392
+12000,"Coolamon (A)",2018,4363
+12000,"Coolamon (A)",2019,4341
+12150,"Coonamble (A)",2001,4797
+12150,"Coonamble (A)",2002,4690
+12150,"Coonamble (A)",2003,4578
+12150,"Coonamble (A)",2004,4476
+12150,"Coonamble (A)",2005,4394
+12150,"Coonamble (A)",2006,4305
+12150,"Coonamble (A)",2007,4253
+12150,"Coonamble (A)",2008,4233
+12150,"Coonamble (A)",2009,4223
+12150,"Coonamble (A)",2010,4224
+12150,"Coonamble (A)",2011,4226
+12150,"Coonamble (A)",2012,4194
+12150,"Coonamble (A)",2013,4168
+12150,"Coonamble (A)",2014,4134
+12150,"Coonamble (A)",2015,4091
+12150,"Coonamble (A)",2016,4051
+12150,"Coonamble (A)",2017,4036
+12150,"Coonamble (A)",2018,4008
+12150,"Coonamble (A)",2019,3958
+12160,"Cootamundra-Gundagai Regional (A)",2001,11397
+12160,"Cootamundra-Gundagai Regional (A)",2002,11357
+12160,"Cootamundra-Gundagai Regional (A)",2003,11292
+12160,"Cootamundra-Gundagai Regional (A)",2004,11248
+12160,"Cootamundra-Gundagai Regional (A)",2005,11256
+12160,"Cootamundra-Gundagai Regional (A)",2006,11254
+12160,"Cootamundra-Gundagai Regional (A)",2007,11201
+12160,"Cootamundra-Gundagai Regional (A)",2008,11168
+12160,"Cootamundra-Gundagai Regional (A)",2009,11230
+12160,"Cootamundra-Gundagai Regional (A)",2010,11274
+12160,"Cootamundra-Gundagai Regional (A)",2011,11308
+12160,"Cootamundra-Gundagai Regional (A)",2012,11312
+12160,"Cootamundra-Gundagai Regional (A)",2013,11313
+12160,"Cootamundra-Gundagai Regional (A)",2014,11305
+12160,"Cootamundra-Gundagai Regional (A)",2015,11302
+12160,"Cootamundra-Gundagai Regional (A)",2016,11291
+12160,"Cootamundra-Gundagai Regional (A)",2017,11249
+12160,"Cootamundra-Gundagai Regional (A)",2018,11250
+12160,"Cootamundra-Gundagai Regional (A)",2019,11235
+12350,"Cowra (A)",2001,12989
+12350,"Cowra (A)",2002,12922
+12350,"Cowra (A)",2003,12849
+12350,"Cowra (A)",2004,12804
+12350,"Cowra (A)",2005,12774
+12350,"Cowra (A)",2006,12754
+12350,"Cowra (A)",2007,12688
+12350,"Cowra (A)",2008,12591
+12350,"Cowra (A)",2009,12548
+12350,"Cowra (A)",2010,12533
+12350,"Cowra (A)",2011,12523
+12350,"Cowra (A)",2012,12529
+12350,"Cowra (A)",2013,12511
+12350,"Cowra (A)",2014,12556
+12350,"Cowra (A)",2015,12604
+12350,"Cowra (A)",2016,12659
+12350,"Cowra (A)",2017,12700
+12350,"Cowra (A)",2018,12753
+12350,"Cowra (A)",2019,12743
+12390,"Dubbo Regional (A)",2001,47176
+12390,"Dubbo Regional (A)",2002,47162
+12390,"Dubbo Regional (A)",2003,47060
+12390,"Dubbo Regional (A)",2004,47025
+12390,"Dubbo Regional (A)",2005,47038
+12390,"Dubbo Regional (A)",2006,47148
+12390,"Dubbo Regional (A)",2007,47315
+12390,"Dubbo Regional (A)",2008,47849
+12390,"Dubbo Regional (A)",2009,48466
+12390,"Dubbo Regional (A)",2010,48949
+12390,"Dubbo Regional (A)",2011,49079
+12390,"Dubbo Regional (A)",2012,49397
+12390,"Dubbo Regional (A)",2013,49757
+12390,"Dubbo Regional (A)",2014,50322
+12390,"Dubbo Regional (A)",2015,50847
+12390,"Dubbo Regional (A)",2016,51404
+12390,"Dubbo Regional (A)",2017,52133
+12390,"Dubbo Regional (A)",2018,53167
+12390,"Dubbo Regional (A)",2019,53719
+12380,"Cumberland (A)",2001,171200
+12380,"Cumberland (A)",2002,171580
+12380,"Cumberland (A)",2003,172359
+12380,"Cumberland (A)",2004,174036
+12380,"Cumberland (A)",2005,177098
+12380,"Cumberland (A)",2006,180403
+12380,"Cumberland (A)",2007,185224
+12380,"Cumberland (A)",2008,191102
+12380,"Cumberland (A)",2009,195643
+12380,"Cumberland (A)",2010,199981
+12380,"Cumberland (A)",2011,203181
+12380,"Cumberland (A)",2012,207528
+12380,"Cumberland (A)",2013,212450
+12380,"Cumberland (A)",2014,216864
+12380,"Cumberland (A)",2015,221152
+12380,"Cumberland (A)",2016,225691
+12380,"Cumberland (A)",2017,231725
+12380,"Cumberland (A)",2018,236599
+12380,"Cumberland (A)",2019,241521
+12700,"Dungog (A)",2001,8338
+12700,"Dungog (A)",2002,8321
+12700,"Dungog (A)",2003,8312
+12700,"Dungog (A)",2004,8233
+12700,"Dungog (A)",2005,8263
+12700,"Dungog (A)",2006,8245
+12700,"Dungog (A)",2007,8245
+12700,"Dungog (A)",2008,8286
+12700,"Dungog (A)",2009,8415
+12700,"Dungog (A)",2010,8457
+12700,"Dungog (A)",2011,8556
+12700,"Dungog (A)",2012,8657
+12700,"Dungog (A)",2013,8791
+12700,"Dungog (A)",2014,8918
+12700,"Dungog (A)",2015,9008
+12700,"Dungog (A)",2016,9101
+12700,"Dungog (A)",2017,9193
+12700,"Dungog (A)",2018,9336
+12700,"Dungog (A)",2019,9423
+12730,"Edward River (A)",2001,10074
+12730,"Edward River (A)",2002,9958
+12730,"Edward River (A)",2003,9798
+12730,"Edward River (A)",2004,9603
+12730,"Edward River (A)",2005,9440
+12730,"Edward River (A)",2006,9287
+12730,"Edward River (A)",2007,9228
+12730,"Edward River (A)",2008,9110
+12730,"Edward River (A)",2009,9072
+12730,"Edward River (A)",2010,8973
+12730,"Edward River (A)",2011,8888
+12730,"Edward River (A)",2012,8913
+12730,"Edward River (A)",2013,8929
+12730,"Edward River (A)",2014,8962
+12730,"Edward River (A)",2015,9012
+12730,"Edward River (A)",2016,8991
+12730,"Edward River (A)",2017,8955
+12730,"Edward River (A)",2018,8984
+12730,"Edward River (A)",2019,9084
+12750,"Eurobodalla (A)",2001,33639
+12750,"Eurobodalla (A)",2002,34239
+12750,"Eurobodalla (A)",2003,34855
+12750,"Eurobodalla (A)",2004,35326
+12750,"Eurobodalla (A)",2005,35662
+12750,"Eurobodalla (A)",2006,35855
+12750,"Eurobodalla (A)",2007,36103
+12750,"Eurobodalla (A)",2008,36301
+12750,"Eurobodalla (A)",2009,36462
+12750,"Eurobodalla (A)",2010,36807
+12750,"Eurobodalla (A)",2011,37082
+12750,"Eurobodalla (A)",2012,37141
+12750,"Eurobodalla (A)",2013,37270
+12750,"Eurobodalla (A)",2014,37483
+12750,"Eurobodalla (A)",2015,37733
+12750,"Eurobodalla (A)",2016,37919
+12750,"Eurobodalla (A)",2017,38097
+12750,"Eurobodalla (A)",2018,38253
+12750,"Eurobodalla (A)",2019,38473
+12850,"Fairfield (C)",2001,187825
+12850,"Fairfield (C)",2002,187089
+12850,"Fairfield (C)",2003,186489
+12850,"Fairfield (C)",2004,185562
+12850,"Fairfield (C)",2005,185740
+12850,"Fairfield (C)",2006,186117
+12850,"Fairfield (C)",2007,187872
+12850,"Fairfield (C)",2008,190654
+12850,"Fairfield (C)",2009,193557
+12850,"Fairfield (C)",2010,195174
+12850,"Fairfield (C)",2011,196479
+12850,"Fairfield (C)",2012,198106
+12850,"Fairfield (C)",2013,200098
+12850,"Fairfield (C)",2014,201788
+12850,"Fairfield (C)",2015,203490
+12850,"Fairfield (C)",2016,205675
+12850,"Fairfield (C)",2017,208636
+12850,"Fairfield (C)",2018,210417
+12850,"Fairfield (C)",2019,211695
+12870,"Federation (A)",2001,12121
+12870,"Federation (A)",2002,12141
+12870,"Federation (A)",2003,12184
+12870,"Federation (A)",2004,12237
+12870,"Federation (A)",2005,12330
+12870,"Federation (A)",2006,12497
+12870,"Federation (A)",2007,12479
+12870,"Federation (A)",2008,12468
+12870,"Federation (A)",2009,12515
+12870,"Federation (A)",2010,12520
+12870,"Federation (A)",2011,12509
+12870,"Federation (A)",2012,12510
+12870,"Federation (A)",2013,12508
+12870,"Federation (A)",2014,12499
+12870,"Federation (A)",2015,12470
+12870,"Federation (A)",2016,12445
+12870,"Federation (A)",2017,12450
+12870,"Federation (A)",2018,12450
+12870,"Federation (A)",2019,12437
+12900,"Forbes (A)",2001,10062
+12900,"Forbes (A)",2002,9995
+12900,"Forbes (A)",2003,9907
+12900,"Forbes (A)",2004,9744
+12900,"Forbes (A)",2005,9610
+12900,"Forbes (A)",2006,9540
+12900,"Forbes (A)",2007,9573
+12900,"Forbes (A)",2008,9526
+12900,"Forbes (A)",2009,9562
+12900,"Forbes (A)",2010,9495
+12900,"Forbes (A)",2011,9469
+12900,"Forbes (A)",2012,9529
+12900,"Forbes (A)",2013,9608
+12900,"Forbes (A)",2014,9698
+12900,"Forbes (A)",2015,9750
+12900,"Forbes (A)",2016,9817
+12900,"Forbes (A)",2017,9865
+12900,"Forbes (A)",2018,9898
+12900,"Forbes (A)",2019,9906
+12930,"Georges River (A)",2001,125777
+12930,"Georges River (A)",2002,126520
+12930,"Georges River (A)",2003,127183
+12930,"Georges River (A)",2004,128176
+12930,"Georges River (A)",2005,129490
+12930,"Georges River (A)",2006,130586
+12930,"Georges River (A)",2007,132751
+12930,"Georges River (A)",2008,135287
+12930,"Georges River (A)",2009,137979
+12930,"Georges River (A)",2010,140040
+12930,"Georges River (A)",2011,141726
+12930,"Georges River (A)",2012,144159
+12930,"Georges River (A)",2013,146604
+12930,"Georges River (A)",2014,148882
+12930,"Georges River (A)",2015,151069
+12930,"Georges River (A)",2016,153161
+12930,"Georges River (A)",2017,156435
+12930,"Georges River (A)",2018,158283
+12930,"Georges River (A)",2019,159471
+12950,"Gilgandra (A)",2001,4761
+12950,"Gilgandra (A)",2002,4730
+12950,"Gilgandra (A)",2003,4706
+12950,"Gilgandra (A)",2004,4660
+12950,"Gilgandra (A)",2005,4652
+12950,"Gilgandra (A)",2006,4618
+12950,"Gilgandra (A)",2007,4532
+12950,"Gilgandra (A)",2008,4471
+12950,"Gilgandra (A)",2009,4498
+12950,"Gilgandra (A)",2010,4529
+12950,"Gilgandra (A)",2011,4515
+12950,"Gilgandra (A)",2012,4464
+12950,"Gilgandra (A)",2013,4428
+12950,"Gilgandra (A)",2014,4382
+12950,"Gilgandra (A)",2015,4342
+12950,"Gilgandra (A)",2016,4298
+12950,"Gilgandra (A)",2017,4249
+12950,"Gilgandra (A)",2018,4221
+12950,"Gilgandra (A)",2019,4239
+13010,"Glen Innes Severn (A)",2001,8818
+13010,"Glen Innes Severn (A)",2002,8848
+13010,"Glen Innes Severn (A)",2003,8870
+13010,"Glen Innes Severn (A)",2004,8876
+13010,"Glen Innes Severn (A)",2005,8907
+13010,"Glen Innes Severn (A)",2006,8987
+13010,"Glen Innes Severn (A)",2007,8919
+13010,"Glen Innes Severn (A)",2008,8907
+13010,"Glen Innes Severn (A)",2009,8926
+13010,"Glen Innes Severn (A)",2010,8939
+13010,"Glen Innes Severn (A)",2011,8911
+13010,"Glen Innes Severn (A)",2012,8905
+13010,"Glen Innes Severn (A)",2013,8909
+13010,"Glen Innes Severn (A)",2014,8919
+13010,"Glen Innes Severn (A)",2015,8926
+13010,"Glen Innes Severn (A)",2016,8934
+13010,"Glen Innes Severn (A)",2017,8923
+13010,"Glen Innes Severn (A)",2018,8900
+13010,"Glen Innes Severn (A)",2019,8871
+13310,"Goulburn Mulwaree (A)",2001,26401
+13310,"Goulburn Mulwaree (A)",2002,26526
+13310,"Goulburn Mulwaree (A)",2003,26576
+13310,"Goulburn Mulwaree (A)",2004,26559
+13310,"Goulburn Mulwaree (A)",2005,26615
+13310,"Goulburn Mulwaree (A)",2006,26695
+13310,"Goulburn Mulwaree (A)",2007,26803
+13310,"Goulburn Mulwaree (A)",2008,27166
+13310,"Goulburn Mulwaree (A)",2009,27654
+13310,"Goulburn Mulwaree (A)",2010,28083
+13310,"Goulburn Mulwaree (A)",2011,28363
+13310,"Goulburn Mulwaree (A)",2012,28730
+13310,"Goulburn Mulwaree (A)",2013,29187
+13310,"Goulburn Mulwaree (A)",2014,29486
+13310,"Goulburn Mulwaree (A)",2015,29815
+13310,"Goulburn Mulwaree (A)",2016,30261
+13310,"Goulburn Mulwaree (A)",2017,30575
+13310,"Goulburn Mulwaree (A)",2018,30823
+13310,"Goulburn Mulwaree (A)",2019,31132
+13340,"Greater Hume Shire (A)",2001,10455
+13340,"Greater Hume Shire (A)",2002,10331
+13340,"Greater Hume Shire (A)",2003,10189
+13340,"Greater Hume Shire (A)",2004,10126
+13340,"Greater Hume Shire (A)",2005,10036
+13340,"Greater Hume Shire (A)",2006,9999
+13340,"Greater Hume Shire (A)",2007,9985
+13340,"Greater Hume Shire (A)",2008,9988
+13340,"Greater Hume Shire (A)",2009,10009
+13340,"Greater Hume Shire (A)",2010,10060
+13340,"Greater Hume Shire (A)",2011,10072
+13340,"Greater Hume Shire (A)",2012,10161
+13340,"Greater Hume Shire (A)",2013,10220
+13340,"Greater Hume Shire (A)",2014,10318
+13340,"Greater Hume Shire (A)",2015,10441
+13340,"Greater Hume Shire (A)",2016,10519
+13340,"Greater Hume Shire (A)",2017,10608
+13340,"Greater Hume Shire (A)",2018,10675
+13340,"Greater Hume Shire (A)",2019,10764
+13450,"Griffith (C)",2001,24412
+13450,"Griffith (C)",2002,24377
+13450,"Griffith (C)",2003,24277
+13450,"Griffith (C)",2004,24235
+13450,"Griffith (C)",2005,24329
+13450,"Griffith (C)",2006,24450
+13450,"Griffith (C)",2007,24583
+13450,"Griffith (C)",2008,24817
+13450,"Griffith (C)",2009,25100
+13450,"Griffith (C)",2010,25264
+13450,"Griffith (C)",2011,25395
+13450,"Griffith (C)",2012,25614
+13450,"Griffith (C)",2013,25705
+13450,"Griffith (C)",2014,25942
+13450,"Griffith (C)",2015,26171
+13450,"Griffith (C)",2016,26356
+13450,"Griffith (C)",2017,26608
+13450,"Griffith (C)",2018,26849
+13450,"Griffith (C)",2019,27029
+13550,"Gunnedah (A)",2001,12306
+13550,"Gunnedah (A)",2002,12193
+13550,"Gunnedah (A)",2003,12036
+13550,"Gunnedah (A)",2004,11892
+13550,"Gunnedah (A)",2005,11792
+13550,"Gunnedah (A)",2006,11782
+13550,"Gunnedah (A)",2007,11879
+13550,"Gunnedah (A)",2008,11987
+13550,"Gunnedah (A)",2009,12151
+13550,"Gunnedah (A)",2010,12344
+13550,"Gunnedah (A)",2011,12519
+13550,"Gunnedah (A)",2012,12514
+13550,"Gunnedah (A)",2013,12481
+13550,"Gunnedah (A)",2014,12468
+13550,"Gunnedah (A)",2015,12447
+13550,"Gunnedah (A)",2016,12491
+13550,"Gunnedah (A)",2017,12587
+13550,"Gunnedah (A)",2018,12643
+13550,"Gunnedah (A)",2019,12681
+13660,"Gwydir (A)",2001,5716
+13660,"Gwydir (A)",2002,5652
+13660,"Gwydir (A)",2003,5573
+13660,"Gwydir (A)",2004,5492
+13660,"Gwydir (A)",2005,5442
+13660,"Gwydir (A)",2006,5428
+13660,"Gwydir (A)",2007,5307
+13660,"Gwydir (A)",2008,5210
+13660,"Gwydir (A)",2009,5167
+13660,"Gwydir (A)",2010,5131
+13660,"Gwydir (A)",2011,5102
+13660,"Gwydir (A)",2012,5172
+13660,"Gwydir (A)",2013,5218
+13660,"Gwydir (A)",2014,5250
+13660,"Gwydir (A)",2015,5302
+13660,"Gwydir (A)",2016,5326
+13660,"Gwydir (A)",2017,5318
+13660,"Gwydir (A)",2018,5344
+13660,"Gwydir (A)",2019,5353
+13800,"Hawkesbury (C)",2001,62412
+13800,"Hawkesbury (C)",2002,62515
+13800,"Hawkesbury (C)",2003,62530
+13800,"Hawkesbury (C)",2004,62032
+13800,"Hawkesbury (C)",2005,61698
+13800,"Hawkesbury (C)",2006,61725
+13800,"Hawkesbury (C)",2007,62262
+13800,"Hawkesbury (C)",2008,63066
+13800,"Hawkesbury (C)",2009,63618
+13800,"Hawkesbury (C)",2010,63982
+13800,"Hawkesbury (C)",2011,64353
+13800,"Hawkesbury (C)",2012,64670
+13800,"Hawkesbury (C)",2013,65145
+13800,"Hawkesbury (C)",2014,65503
+13800,"Hawkesbury (C)",2015,65890
+13800,"Hawkesbury (C)",2016,66346
+13800,"Hawkesbury (C)",2017,66669
+13800,"Hawkesbury (C)",2018,67007
+13800,"Hawkesbury (C)",2019,67296
+13850,"Hay (A)",2001,3620
+13850,"Hay (A)",2002,3616
+13850,"Hay (A)",2003,3582
+13850,"Hay (A)",2004,3538
+13850,"Hay (A)",2005,3512
+13850,"Hay (A)",2006,3483
+13850,"Hay (A)",2007,3394
+13850,"Hay (A)",2008,3292
+13850,"Hay (A)",2009,3209
+13850,"Hay (A)",2010,3153
+13850,"Hay (A)",2011,3085
+13850,"Hay (A)",2012,3029
+13850,"Hay (A)",2013,3016
+13850,"Hay (A)",2014,3005
+13850,"Hay (A)",2015,2994
+13850,"Hay (A)",2016,2984
+13850,"Hay (A)",2017,2981
+13850,"Hay (A)",2018,2975
+13850,"Hay (A)",2019,2949
+13910,"Hilltops (A)",2001,18014
+13910,"Hilltops (A)",2002,18022
+13910,"Hilltops (A)",2003,18031
+13910,"Hilltops (A)",2004,18060
+13910,"Hilltops (A)",2005,18146
+13910,"Hilltops (A)",2006,18213
+13910,"Hilltops (A)",2007,18266
+13910,"Hilltops (A)",2008,18337
+13910,"Hilltops (A)",2009,18467
+13910,"Hilltops (A)",2010,18639
+13910,"Hilltops (A)",2011,18793
+13910,"Hilltops (A)",2012,18807
+13910,"Hilltops (A)",2013,18783
+13910,"Hilltops (A)",2014,18776
+13910,"Hilltops (A)",2015,18760
+13910,"Hilltops (A)",2016,18756
+13910,"Hilltops (A)",2017,18765
+13910,"Hilltops (A)",2018,18759
+13910,"Hilltops (A)",2019,18704
+14000,"Hornsby (A)",2001,132644
+14000,"Hornsby (A)",2002,134068
+14000,"Hornsby (A)",2003,134991
+14000,"Hornsby (A)",2004,135567
+14000,"Hornsby (A)",2005,135974
+14000,"Hornsby (A)",2006,136162
+14000,"Hornsby (A)",2007,137694
+14000,"Hornsby (A)",2008,139436
+14000,"Hornsby (A)",2009,141117
+14000,"Hornsby (A)",2010,142549
+14000,"Hornsby (A)",2011,143273
+14000,"Hornsby (A)",2012,143754
+14000,"Hornsby (A)",2013,144458
+14000,"Hornsby (A)",2014,145262
+14000,"Hornsby (A)",2015,146147
+14000,"Hornsby (A)",2016,147385
+14000,"Hornsby (A)",2017,149215
+14000,"Hornsby (A)",2018,150632
+14000,"Hornsby (A)",2019,152059
+14100,"Hunters Hill (A)",2001,13296
+14100,"Hunters Hill (A)",2002,13412
+14100,"Hunters Hill (A)",2003,13512
+14100,"Hunters Hill (A)",2004,13631
+14100,"Hunters Hill (A)",2005,13636
+14100,"Hunters Hill (A)",2006,13662
+14100,"Hunters Hill (A)",2007,13716
+14100,"Hunters Hill (A)",2008,13742
+14100,"Hunters Hill (A)",2009,13835
+14100,"Hunters Hill (A)",2010,13854
+14100,"Hunters Hill (A)",2011,13897
+14100,"Hunters Hill (A)",2012,14070
+14100,"Hunters Hill (A)",2013,14242
+14100,"Hunters Hill (A)",2014,14428
+14100,"Hunters Hill (A)",2015,14540
+14100,"Hunters Hill (A)",2016,14656
+14100,"Hunters Hill (A)",2017,14754
+14100,"Hunters Hill (A)",2018,14898
+14100,"Hunters Hill (A)",2019,14980
+14170,"Inner West (A)",2001,166693
+14170,"Inner West (A)",2002,166368
+14170,"Inner West (A)",2003,166127
+14170,"Inner West (A)",2004,165989
+14170,"Inner West (A)",2005,166486
+14170,"Inner West (A)",2006,167602
+14170,"Inner West (A)",2007,170481
+14170,"Inner West (A)",2008,173375
+14170,"Inner West (A)",2009,176106
+14170,"Inner West (A)",2010,178395
+14170,"Inner West (A)",2011,180301
+14170,"Inner West (A)",2012,182041
+14170,"Inner West (A)",2013,184297
+14170,"Inner West (A)",2014,186495
+14170,"Inner West (A)",2015,188711
+14170,"Inner West (A)",2016,191194
+14170,"Inner West (A)",2017,194744
+14170,"Inner West (A)",2018,197836
+14170,"Inner West (A)",2019,200811
+14200,"Inverell (A)",2001,15632
+14200,"Inverell (A)",2002,15721
+14200,"Inverell (A)",2003,15723
+14200,"Inverell (A)",2004,15708
+14200,"Inverell (A)",2005,15765
+14200,"Inverell (A)",2006,15845
+14200,"Inverell (A)",2007,15973
+14200,"Inverell (A)",2008,16118
+14200,"Inverell (A)",2009,16320
+14200,"Inverell (A)",2010,16476
+14200,"Inverell (A)",2011,16584
+14200,"Inverell (A)",2012,16614
+14200,"Inverell (A)",2013,16627
+14200,"Inverell (A)",2014,16676
+14200,"Inverell (A)",2015,16731
+14200,"Inverell (A)",2016,16812
+14200,"Inverell (A)",2017,16827
+14200,"Inverell (A)",2018,16825
+14200,"Inverell (A)",2019,16890
+14300,"Junee (A)",2001,5859
+14300,"Junee (A)",2002,5869
+14300,"Junee (A)",2003,5861
+14300,"Junee (A)",2004,5854
+14300,"Junee (A)",2005,5882
+14300,"Junee (A)",2006,5943
+14300,"Junee (A)",2007,5942
+14300,"Junee (A)",2008,5978
+14300,"Junee (A)",2009,6054
+14300,"Junee (A)",2010,6105
+14300,"Junee (A)",2011,6132
+14300,"Junee (A)",2012,6135
+14300,"Junee (A)",2013,6213
+14300,"Junee (A)",2014,6283
+14300,"Junee (A)",2015,6336
+14300,"Junee (A)",2016,6414
+14300,"Junee (A)",2017,6516
+14300,"Junee (A)",2018,6625
+14300,"Junee (A)",2019,6683
+14350,"Kempsey (A)",2001,27164
+14350,"Kempsey (A)",2002,27327
+14350,"Kempsey (A)",2003,27466
+14350,"Kempsey (A)",2004,27608
+14350,"Kempsey (A)",2005,27936
+14350,"Kempsey (A)",2006,28032
+14350,"Kempsey (A)",2007,28193
+14350,"Kempsey (A)",2008,28431
+14350,"Kempsey (A)",2009,28775
+14350,"Kempsey (A)",2010,28960
+14350,"Kempsey (A)",2011,29128
+14350,"Kempsey (A)",2012,29223
+14350,"Kempsey (A)",2013,29284
+14350,"Kempsey (A)",2014,29351
+14350,"Kempsey (A)",2015,29379
+14350,"Kempsey (A)",2016,29431
+14350,"Kempsey (A)",2017,29550
+14350,"Kempsey (A)",2018,29633
+14350,"Kempsey (A)",2019,29745
+14400,"Kiama (A)",2001,19793
+14400,"Kiama (A)",2002,19841
+14400,"Kiama (A)",2003,19836
+14400,"Kiama (A)",2004,19784
+14400,"Kiama (A)",2005,19690
+14400,"Kiama (A)",2006,19626
+14400,"Kiama (A)",2007,19809
+14400,"Kiama (A)",2008,19933
+14400,"Kiama (A)",2009,20219
+14400,"Kiama (A)",2010,20522
+14400,"Kiama (A)",2011,20806
+14400,"Kiama (A)",2012,21004
+14400,"Kiama (A)",2013,21262
+14400,"Kiama (A)",2014,21612
+14400,"Kiama (A)",2015,21890
+14400,"Kiama (A)",2016,22110
+14400,"Kiama (A)",2017,22461
+14400,"Kiama (A)",2018,22987
+14400,"Kiama (A)",2019,23386
+14500,"Ku-ring-gai (A)",2001,106965
+14500,"Ku-ring-gai (A)",2002,106778
+14500,"Ku-ring-gai (A)",2003,106559
+14500,"Ku-ring-gai (A)",2004,105839
+14500,"Ku-ring-gai (A)",2005,104883
+14500,"Ku-ring-gai (A)",2006,104459
+14500,"Ku-ring-gai (A)",2007,105551
+14500,"Ku-ring-gai (A)",2008,107976
+14500,"Ku-ring-gai (A)",2009,110464
+14500,"Ku-ring-gai (A)",2010,112643
+14500,"Ku-ring-gai (A)",2011,114604
+14500,"Ku-ring-gai (A)",2012,116339
+14500,"Ku-ring-gai (A)",2013,118195
+14500,"Ku-ring-gai (A)",2014,119851
+14500,"Ku-ring-gai (A)",2015,121315
+14500,"Ku-ring-gai (A)",2016,122472
+14500,"Ku-ring-gai (A)",2017,124515
+14500,"Ku-ring-gai (A)",2018,125965
+14500,"Ku-ring-gai (A)",2019,127153
+14550,"Kyogle (A)",2001,9739
+14550,"Kyogle (A)",2002,9686
+14550,"Kyogle (A)",2003,9590
+14550,"Kyogle (A)",2004,9525
+14550,"Kyogle (A)",2005,9507
+14550,"Kyogle (A)",2006,9491
+14550,"Kyogle (A)",2007,9491
+14550,"Kyogle (A)",2008,9490
+14550,"Kyogle (A)",2009,9514
+14550,"Kyogle (A)",2010,9544
+14550,"Kyogle (A)",2011,9537
+14550,"Kyogle (A)",2012,9416
+14550,"Kyogle (A)",2013,9345
+14550,"Kyogle (A)",2014,9288
+14550,"Kyogle (A)",2015,9197
+14550,"Kyogle (A)",2016,9114
+14550,"Kyogle (A)",2017,8982
+14550,"Kyogle (A)",2018,8862
+14550,"Kyogle (A)",2019,8796
+14600,"Lachlan (A)",2001,7500
+14600,"Lachlan (A)",2002,7386
+14600,"Lachlan (A)",2003,7233
+14600,"Lachlan (A)",2004,7090
+14600,"Lachlan (A)",2005,6956
+14600,"Lachlan (A)",2006,6829
+14600,"Lachlan (A)",2007,6733
+14600,"Lachlan (A)",2008,6692
+14600,"Lachlan (A)",2009,6678
+14600,"Lachlan (A)",2010,6663
+14600,"Lachlan (A)",2011,6701
+14600,"Lachlan (A)",2012,6651
+14600,"Lachlan (A)",2013,6586
+14600,"Lachlan (A)",2014,6530
+14600,"Lachlan (A)",2015,6450
+14600,"Lachlan (A)",2016,6356
+14600,"Lachlan (A)",2017,6230
+14600,"Lachlan (A)",2018,6143
+14600,"Lachlan (A)",2019,6075
+14650,"Lake Macquarie (C)",2001,186353
+14650,"Lake Macquarie (C)",2002,187385
+14650,"Lake Macquarie (C)",2003,188171
+14650,"Lake Macquarie (C)",2004,188415
+14650,"Lake Macquarie (C)",2005,188547
+14650,"Lake Macquarie (C)",2006,188503
+14650,"Lake Macquarie (C)",2007,189672
+14650,"Lake Macquarie (C)",2008,191478
+14650,"Lake Macquarie (C)",2009,193585
+14650,"Lake Macquarie (C)",2010,195263
+14650,"Lake Macquarie (C)",2011,196811
+14650,"Lake Macquarie (C)",2012,197693
+14650,"Lake Macquarie (C)",2013,198953
+14650,"Lake Macquarie (C)",2014,200249
+14650,"Lake Macquarie (C)",2015,201240
+14650,"Lake Macquarie (C)",2016,202332
+14650,"Lake Macquarie (C)",2017,203502
+14650,"Lake Macquarie (C)",2018,204694
+14650,"Lake Macquarie (C)",2019,205901
+14700,"Lane Cove (A)",2001,31880
+14700,"Lane Cove (A)",2002,31749
+14700,"Lane Cove (A)",2003,31695
+14700,"Lane Cove (A)",2004,31599
+14700,"Lane Cove (A)",2005,31538
+14700,"Lane Cove (A)",2006,31527
+14700,"Lane Cove (A)",2007,31678
+14700,"Lane Cove (A)",2008,31918
+14700,"Lane Cove (A)",2009,32308
+14700,"Lane Cove (A)",2010,32803
+14700,"Lane Cove (A)",2011,33233
+14700,"Lane Cove (A)",2012,33728
+14700,"Lane Cove (A)",2013,34261
+14700,"Lane Cove (A)",2014,35196
+14700,"Lane Cove (A)",2015,36402
+14700,"Lane Cove (A)",2016,37694
+14700,"Lane Cove (A)",2017,38780
+14700,"Lane Cove (A)",2018,39442
+14700,"Lane Cove (A)",2019,40155
+14750,"Leeton (A)",2001,11832
+14750,"Leeton (A)",2002,11807
+14750,"Leeton (A)",2003,11755
+14750,"Leeton (A)",2004,11681
+14750,"Leeton (A)",2005,11590
+14750,"Leeton (A)",2006,11562
+14750,"Leeton (A)",2007,11502
+14750,"Leeton (A)",2008,11457
+14750,"Leeton (A)",2009,11461
+14750,"Leeton (A)",2010,11432
+14750,"Leeton (A)",2011,11406
+14750,"Leeton (A)",2012,11430
+14750,"Leeton (A)",2013,11413
+14750,"Leeton (A)",2014,11408
+14750,"Leeton (A)",2015,11411
+14750,"Leeton (A)",2016,11407
+14750,"Leeton (A)",2017,11424
+14750,"Leeton (A)",2018,11425
+14750,"Leeton (A)",2019,11445
+14850,"Lismore (C)",2001,42721
+14850,"Lismore (C)",2002,42749
+14850,"Lismore (C)",2003,42681
+14850,"Lismore (C)",2004,42764
+14850,"Lismore (C)",2005,43011
+14850,"Lismore (C)",2006,43338
+14850,"Lismore (C)",2007,43636
+14850,"Lismore (C)",2008,43750
+14850,"Lismore (C)",2009,43940
+14850,"Lismore (C)",2010,44190
+14850,"Lismore (C)",2011,44348
+14850,"Lismore (C)",2012,44388
+14850,"Lismore (C)",2013,44408
+14850,"Lismore (C)",2014,44327
+14850,"Lismore (C)",2015,44212
+14850,"Lismore (C)",2016,44122
+14850,"Lismore (C)",2017,43930
+14850,"Lismore (C)",2018,43803
+14850,"Lismore (C)",2019,43692
+14870,"Lithgow (C)",2001,20451
+14870,"Lithgow (C)",2002,20442
+14870,"Lithgow (C)",2003,20418
+14870,"Lithgow (C)",2004,20357
+14870,"Lithgow (C)",2005,20272
+14870,"Lithgow (C)",2006,20186
+14870,"Lithgow (C)",2007,20277
+14870,"Lithgow (C)",2008,20352
+14870,"Lithgow (C)",2009,20621
+14870,"Lithgow (C)",2010,20732
+14870,"Lithgow (C)",2011,20850
+14870,"Lithgow (C)",2012,21000
+14870,"Lithgow (C)",2013,21118
+14870,"Lithgow (C)",2014,21283
+14870,"Lithgow (C)",2015,21400
+14870,"Lithgow (C)",2016,21484
+14870,"Lithgow (C)",2017,21577
+14870,"Lithgow (C)",2018,21616
+14870,"Lithgow (C)",2019,21605
+14900,"Liverpool (C)",2001,158027
+14900,"Liverpool (C)",2002,161908
+14900,"Liverpool (C)",2003,163835
+14900,"Liverpool (C)",2004,165627
+14900,"Liverpool (C)",2005,167472
+14900,"Liverpool (C)",2006,169868
+14900,"Liverpool (C)",2007,172875
+14900,"Liverpool (C)",2008,177372
+14900,"Liverpool (C)",2009,181712
+14900,"Liverpool (C)",2010,184910
+14900,"Liverpool (C)",2011,188088
+14900,"Liverpool (C)",2012,191799
+14900,"Liverpool (C)",2013,196122
+14900,"Liverpool (C)",2014,200725
+14900,"Liverpool (C)",2015,206205
+14900,"Liverpool (C)",2016,211983
+14900,"Liverpool (C)",2017,217788
+14900,"Liverpool (C)",2018,223025
+14900,"Liverpool (C)",2019,227585
+14920,"Liverpool Plains (A)",2001,7977
+14920,"Liverpool Plains (A)",2002,7940
+14920,"Liverpool Plains (A)",2003,7859
+14920,"Liverpool Plains (A)",2004,7797
+14920,"Liverpool Plains (A)",2005,7736
+14920,"Liverpool Plains (A)",2006,7717
+14920,"Liverpool Plains (A)",2007,7720
+14920,"Liverpool Plains (A)",2008,7717
+14920,"Liverpool Plains (A)",2009,7718
+14920,"Liverpool Plains (A)",2010,7738
+14920,"Liverpool Plains (A)",2011,7761
+14920,"Liverpool Plains (A)",2012,7786
+14920,"Liverpool Plains (A)",2013,7812
+14920,"Liverpool Plains (A)",2014,7831
+14920,"Liverpool Plains (A)",2015,7837
+14920,"Liverpool Plains (A)",2016,7847
+14920,"Liverpool Plains (A)",2017,7871
+14920,"Liverpool Plains (A)",2018,7886
+14920,"Liverpool Plains (A)",2019,7903
+14950,"Lockhart (A)",2001,3550
+14950,"Lockhart (A)",2002,3470
+14950,"Lockhart (A)",2003,3404
+14950,"Lockhart (A)",2004,3330
+14950,"Lockhart (A)",2005,3267
+14950,"Lockhart (A)",2006,3237
+14950,"Lockhart (A)",2007,3203
+14950,"Lockhart (A)",2008,3171
+14950,"Lockhart (A)",2009,3159
+14950,"Lockhart (A)",2010,3133
+14950,"Lockhart (A)",2011,3098
+14950,"Lockhart (A)",2012,3085
+14950,"Lockhart (A)",2013,3096
+14950,"Lockhart (A)",2014,3117
+14950,"Lockhart (A)",2015,3121
+14950,"Lockhart (A)",2016,3173
+14950,"Lockhart (A)",2017,3240
+14950,"Lockhart (A)",2018,3290
+14950,"Lockhart (A)",2019,3285
+15050,"Maitland (C)",2001,56055
+15050,"Maitland (C)",2002,57642
+15050,"Maitland (C)",2003,59167
+15050,"Maitland (C)",2004,60440
+15050,"Maitland (C)",2005,61961
+15050,"Maitland (C)",2006,63505
+15050,"Maitland (C)",2007,65143
+15050,"Maitland (C)",2008,66244
+15050,"Maitland (C)",2009,67268
+15050,"Maitland (C)",2010,68561
+15050,"Maitland (C)",2011,69924
+15050,"Maitland (C)",2012,72012
+15050,"Maitland (C)",2013,73870
+15050,"Maitland (C)",2014,75695
+15050,"Maitland (C)",2015,77374
+15050,"Maitland (C)",2016,79063
+15050,"Maitland (C)",2017,81049
+15050,"Maitland (C)",2018,83104
+15050,"Maitland (C)",2019,85166
+15240,"Mid-Coast (A)",2001,81291
+15240,"Mid-Coast (A)",2002,82081
+15240,"Mid-Coast (A)",2003,83014
+15240,"Mid-Coast (A)",2004,83730
+15240,"Mid-Coast (A)",2005,84281
+15240,"Mid-Coast (A)",2006,84579
+15240,"Mid-Coast (A)",2007,85325
+15240,"Mid-Coast (A)",2008,86091
+15240,"Mid-Coast (A)",2009,86942
+15240,"Mid-Coast (A)",2010,87948
+15240,"Mid-Coast (A)",2011,88818
+15240,"Mid-Coast (A)",2012,89308
+15240,"Mid-Coast (A)",2013,89940
+15240,"Mid-Coast (A)",2014,90468
+15240,"Mid-Coast (A)",2015,91038
+15240,"Mid-Coast (A)",2016,91801
+15240,"Mid-Coast (A)",2017,92500
+15240,"Mid-Coast (A)",2018,93209
+15240,"Mid-Coast (A)",2019,93836
+15270,"Mid-Western Regional (A)",2001,22003
+15270,"Mid-Western Regional (A)",2002,22002
+15270,"Mid-Western Regional (A)",2003,21862
+15270,"Mid-Western Regional (A)",2004,21706
+15270,"Mid-Western Regional (A)",2005,21647
+15270,"Mid-Western Regional (A)",2006,21641
+15270,"Mid-Western Regional (A)",2007,21887
+15270,"Mid-Western Regional (A)",2008,22186
+15270,"Mid-Western Regional (A)",2009,22469
+15270,"Mid-Western Regional (A)",2010,22774
+15270,"Mid-Western Regional (A)",2011,23020
+15270,"Mid-Western Regional (A)",2012,23343
+15270,"Mid-Western Regional (A)",2013,23742
+15270,"Mid-Western Regional (A)",2014,24059
+15270,"Mid-Western Regional (A)",2015,24374
+15270,"Mid-Western Regional (A)",2016,24546
+15270,"Mid-Western Regional (A)",2017,24827
+15270,"Mid-Western Regional (A)",2018,25057
+15270,"Mid-Western Regional (A)",2019,25251
+15300,"Moree Plains (A)",2001,16108
+15300,"Moree Plains (A)",2002,15834
+15300,"Moree Plains (A)",2003,15457
+15300,"Moree Plains (A)",2004,15028
+15300,"Moree Plains (A)",2005,14693
+15300,"Moree Plains (A)",2006,14407
+15300,"Moree Plains (A)",2007,14155
+15300,"Moree Plains (A)",2008,14070
+15300,"Moree Plains (A)",2009,14019
+15300,"Moree Plains (A)",2010,14032
+15300,"Moree Plains (A)",2011,14043
+15300,"Moree Plains (A)",2012,13980
+15300,"Moree Plains (A)",2013,13925
+15300,"Moree Plains (A)",2014,13853
+15300,"Moree Plains (A)",2015,13735
+15300,"Moree Plains (A)",2016,13627
+15300,"Moree Plains (A)",2017,13461
+15300,"Moree Plains (A)",2018,13331
+15300,"Moree Plains (A)",2019,13261
+15350,"Mosman (A)",2001,27680
+15350,"Mosman (A)",2002,27644
+15350,"Mosman (A)",2003,27680
+15350,"Mosman (A)",2004,27737
+15350,"Mosman (A)",2005,27538
+15350,"Mosman (A)",2006,27570
+15350,"Mosman (A)",2007,27900
+15350,"Mosman (A)",2008,28422
+15350,"Mosman (A)",2009,28761
+15350,"Mosman (A)",2010,29131
+15350,"Mosman (A)",2011,29351
+15350,"Mosman (A)",2012,29481
+15350,"Mosman (A)",2013,29641
+15350,"Mosman (A)",2014,29846
+15350,"Mosman (A)",2015,30045
+15350,"Mosman (A)",2016,30260
+15350,"Mosman (A)",2017,30588
+15350,"Mosman (A)",2018,30852
+15350,"Mosman (A)",2019,30981
+15520,"Murray River (A)",2001,10997
+15520,"Murray River (A)",2002,10994
+15520,"Murray River (A)",2003,10966
+15520,"Murray River (A)",2004,10929
+15520,"Murray River (A)",2005,10932
+15520,"Murray River (A)",2006,11020
+15520,"Murray River (A)",2007,11082
+15520,"Murray River (A)",2008,11161
+15520,"Murray River (A)",2009,11226
+15520,"Murray River (A)",2010,11259
+15520,"Murray River (A)",2011,11257
+15520,"Murray River (A)",2012,11382
+15520,"Murray River (A)",2013,11515
+15520,"Murray River (A)",2014,11642
+15520,"Murray River (A)",2015,11755
+15520,"Murray River (A)",2016,11872
+15520,"Murray River (A)",2017,11963
+15520,"Murray River (A)",2018,12105
+15520,"Murray River (A)",2019,12118
+15560,"Murrumbidgee (A)",2001,4548
+15560,"Murrumbidgee (A)",2002,4485
+15560,"Murrumbidgee (A)",2003,4402
+15560,"Murrumbidgee (A)",2004,4328
+15560,"Murrumbidgee (A)",2005,4273
+15560,"Murrumbidgee (A)",2006,4219
+15560,"Murrumbidgee (A)",2007,4109
+15560,"Murrumbidgee (A)",2008,4039
+15560,"Murrumbidgee (A)",2009,3992
+15560,"Murrumbidgee (A)",2010,3948
+15560,"Murrumbidgee (A)",2011,3888
+15560,"Murrumbidgee (A)",2012,3882
+15560,"Murrumbidgee (A)",2013,3920
+15560,"Murrumbidgee (A)",2014,3900
+15560,"Murrumbidgee (A)",2015,3893
+15560,"Murrumbidgee (A)",2016,3929
+15560,"Murrumbidgee (A)",2017,3955
+15560,"Murrumbidgee (A)",2018,3956
+15560,"Murrumbidgee (A)",2019,3917
+15650,"Muswellbrook (A)",2001,15099
+15650,"Muswellbrook (A)",2002,15339
+15650,"Muswellbrook (A)",2003,15402
+15650,"Muswellbrook (A)",2004,15402
+15650,"Muswellbrook (A)",2005,15467
+15650,"Muswellbrook (A)",2006,15639
+15650,"Muswellbrook (A)",2007,15713
+15650,"Muswellbrook (A)",2008,15749
+15650,"Muswellbrook (A)",2009,15878
+15650,"Muswellbrook (A)",2010,16108
+15650,"Muswellbrook (A)",2011,16328
+15650,"Muswellbrook (A)",2012,16398
+15650,"Muswellbrook (A)",2013,16415
+15650,"Muswellbrook (A)",2014,16431
+15650,"Muswellbrook (A)",2015,16435
+15650,"Muswellbrook (A)",2016,16462
+15650,"Muswellbrook (A)",2017,16445
+15650,"Muswellbrook (A)",2018,16364
+15650,"Muswellbrook (A)",2019,16377
+15700,"Nambucca (A)",2001,18026
+15700,"Nambucca (A)",2002,18005
+15700,"Nambucca (A)",2003,17849
+15700,"Nambucca (A)",2004,18136
+15700,"Nambucca (A)",2005,18247
+15700,"Nambucca (A)",2006,18299
+15700,"Nambucca (A)",2007,18456
+15700,"Nambucca (A)",2008,18695
+15700,"Nambucca (A)",2009,18892
+15700,"Nambucca (A)",2010,19140
+15700,"Nambucca (A)",2011,19235
+15700,"Nambucca (A)",2012,19310
+15700,"Nambucca (A)",2013,19428
+15700,"Nambucca (A)",2014,19501
+15700,"Nambucca (A)",2015,19541
+15700,"Nambucca (A)",2016,19580
+15700,"Nambucca (A)",2017,19698
+15700,"Nambucca (A)",2018,19752
+15700,"Nambucca (A)",2019,19805
+15750,"Narrabri (A)",2001,14422
+15750,"Narrabri (A)",2002,14244
+15750,"Narrabri (A)",2003,14050
+15750,"Narrabri (A)",2004,13784
+15750,"Narrabri (A)",2005,13592
+15750,"Narrabri (A)",2006,13477
+15750,"Narrabri (A)",2007,13359
+15750,"Narrabri (A)",2008,13303
+15750,"Narrabri (A)",2009,13349
+15750,"Narrabri (A)",2010,13394
+15750,"Narrabri (A)",2011,13438
+15750,"Narrabri (A)",2012,13433
+15750,"Narrabri (A)",2013,13489
+15750,"Narrabri (A)",2014,13480
+15750,"Narrabri (A)",2015,13459
+15750,"Narrabri (A)",2016,13367
+15750,"Narrabri (A)",2017,13287
+15750,"Narrabri (A)",2018,13216
+15750,"Narrabri (A)",2019,13135
+15800,"Narrandera (A)",2001,6686
+15800,"Narrandera (A)",2002,6580
+15800,"Narrandera (A)",2003,6433
+15800,"Narrandera (A)",2004,6307
+15800,"Narrandera (A)",2005,6221
+15800,"Narrandera (A)",2006,6149
+15800,"Narrandera (A)",2007,6103
+15800,"Narrandera (A)",2008,6069
+15800,"Narrandera (A)",2009,6093
+15800,"Narrandera (A)",2010,6105
+15800,"Narrandera (A)",2011,6115
+15800,"Narrandera (A)",2012,6086
+15800,"Narrandera (A)",2013,6054
+15800,"Narrandera (A)",2014,6015
+15800,"Narrandera (A)",2015,5978
+15800,"Narrandera (A)",2016,5949
+15800,"Narrandera (A)",2017,5935
+15800,"Narrandera (A)",2018,5924
+15800,"Narrandera (A)",2019,5899
+15850,"Narromine (A)",2001,7060
+15850,"Narromine (A)",2002,6980
+15850,"Narromine (A)",2003,6863
+15850,"Narromine (A)",2004,6777
+15850,"Narromine (A)",2005,6734
+15850,"Narromine (A)",2006,6691
+15850,"Narromine (A)",2007,6676
+15850,"Narromine (A)",2008,6726
+15850,"Narromine (A)",2009,6748
+15850,"Narromine (A)",2010,6815
+15850,"Narromine (A)",2011,6832
+15850,"Narromine (A)",2012,6795
+15850,"Narromine (A)",2013,6761
+15850,"Narromine (A)",2014,6721
+15850,"Narromine (A)",2015,6668
+15850,"Narromine (A)",2016,6617
+15850,"Narromine (A)",2017,6584
+15850,"Narromine (A)",2018,6559
+15850,"Narromine (A)",2019,6517
+15900,"Newcastle (C)",2001,141001
+15900,"Newcastle (C)",2002,142220
+15900,"Newcastle (C)",2003,143613
+15900,"Newcastle (C)",2004,144834
+15900,"Newcastle (C)",2005,145914
+15900,"Newcastle (C)",2006,146623
+15900,"Newcastle (C)",2007,148524
+15900,"Newcastle (C)",2008,150553
+15900,"Newcastle (C)",2009,151895
+15900,"Newcastle (C)",2010,153483
+15900,"Newcastle (C)",2011,155550
+15900,"Newcastle (C)",2012,156451
+15900,"Newcastle (C)",2013,157477
+15900,"Newcastle (C)",2014,158683
+15900,"Newcastle (C)",2015,159680
+15900,"Newcastle (C)",2016,160707
+15900,"Newcastle (C)",2017,162477
+15900,"Newcastle (C)",2018,163943
+15900,"Newcastle (C)",2019,165571
+15950,"North Sydney (A)",2001,58337
+15950,"North Sydney (A)",2002,58816
+15950,"North Sydney (A)",2003,59583
+15950,"North Sydney (A)",2004,60271
+15950,"North Sydney (A)",2005,60850
+15950,"North Sydney (A)",2006,61512
+15950,"North Sydney (A)",2007,62476
+15950,"North Sydney (A)",2008,63484
+15950,"North Sydney (A)",2009,64762
+15950,"North Sydney (A)",2010,65850
+15950,"North Sydney (A)",2011,66747
+15950,"North Sydney (A)",2012,67630
+15950,"North Sydney (A)",2013,68666
+15950,"North Sydney (A)",2014,69754
+15950,"North Sydney (A)",2015,70860
+15950,"North Sydney (A)",2016,71809
+15950,"North Sydney (A)",2017,73112
+15950,"North Sydney (A)",2018,74087
+15950,"North Sydney (A)",2019,75021
+15990,"Northern Beaches (A)",2001,229816
+15990,"Northern Beaches (A)",2002,230170
+15990,"Northern Beaches (A)",2003,230208
+15990,"Northern Beaches (A)",2004,230438
+15990,"Northern Beaches (A)",2005,231741
+15990,"Northern Beaches (A)",2006,233600
+15990,"Northern Beaches (A)",2007,237084
+15990,"Northern Beaches (A)",2008,239842
+15990,"Northern Beaches (A)",2009,244500
+15990,"Northern Beaches (A)",2010,248250
+15990,"Northern Beaches (A)",2011,251696
+15990,"Northern Beaches (A)",2012,254115
+15990,"Northern Beaches (A)",2013,257020
+15990,"Northern Beaches (A)",2014,259723
+15990,"Northern Beaches (A)",2015,262593
+15990,"Northern Beaches (A)",2016,265468
+15990,"Northern Beaches (A)",2017,268870
+15990,"Northern Beaches (A)",2018,271027
+15990,"Northern Beaches (A)",2019,273499
+16100,"Oberon (A)",2001,5257
+16100,"Oberon (A)",2002,5269
+16100,"Oberon (A)",2003,5243
+16100,"Oberon (A)",2004,5209
+16100,"Oberon (A)",2005,5193
+16100,"Oberon (A)",2006,5179
+16100,"Oberon (A)",2007,5166
+16100,"Oberon (A)",2008,5161
+16100,"Oberon (A)",2009,5192
+16100,"Oberon (A)",2010,5207
+16100,"Oberon (A)",2011,5209
+16100,"Oberon (A)",2012,5235
+16100,"Oberon (A)",2013,5300
+16100,"Oberon (A)",2014,5318
+16100,"Oberon (A)",2015,5329
+16100,"Oberon (A)",2016,5349
+16100,"Oberon (A)",2017,5387
+16100,"Oberon (A)",2018,5403
+16100,"Oberon (A)",2019,5411
+16150,"Orange (C)",2001,36701
+16150,"Orange (C)",2002,36728
+16150,"Orange (C)",2003,36721
+16150,"Orange (C)",2004,36501
+16150,"Orange (C)",2005,36410
+16150,"Orange (C)",2006,36374
+16150,"Orange (C)",2007,36801
+16150,"Orange (C)",2008,37401
+16150,"Orange (C)",2009,37904
+16150,"Orange (C)",2010,38660
+16150,"Orange (C)",2011,39419
+16150,"Orange (C)",2012,39769
+16150,"Orange (C)",2013,40167
+16150,"Orange (C)",2014,40619
+16150,"Orange (C)",2015,40837
+16150,"Orange (C)",2016,41210
+16150,"Orange (C)",2017,41501
+16150,"Orange (C)",2018,42000
+16150,"Orange (C)",2019,42451
+16200,"Parkes (A)",2001,14927
+16200,"Parkes (A)",2002,14901
+16200,"Parkes (A)",2003,14807
+16200,"Parkes (A)",2004,14690
+16200,"Parkes (A)",2005,14627
+16200,"Parkes (A)",2006,14600
+16200,"Parkes (A)",2007,14643
+16200,"Parkes (A)",2008,14755
+16200,"Parkes (A)",2009,14835
+16200,"Parkes (A)",2010,14984
+16200,"Parkes (A)",2011,15083
+16200,"Parkes (A)",2012,15048
+16200,"Parkes (A)",2013,15022
+16200,"Parkes (A)",2014,14991
+16200,"Parkes (A)",2015,14954
+16200,"Parkes (A)",2016,14924
+16200,"Parkes (A)",2017,14916
+16200,"Parkes (A)",2018,14877
+16200,"Parkes (A)",2019,14837
+16260,"Parramatta (C)",2001,170101
+16260,"Parramatta (C)",2002,171245
+16260,"Parramatta (C)",2003,172927
+16260,"Parramatta (C)",2004,175370
+16260,"Parramatta (C)",2005,178021
+16260,"Parramatta (C)",2006,180919
+16260,"Parramatta (C)",2007,185175
+16260,"Parramatta (C)",2008,189684
+16260,"Parramatta (C)",2009,195136
+16260,"Parramatta (C)",2010,199575
+16260,"Parramatta (C)",2011,203205
+16260,"Parramatta (C)",2012,208182
+16260,"Parramatta (C)",2013,214537
+16260,"Parramatta (C)",2014,221107
+16260,"Parramatta (C)",2015,227649
+16260,"Parramatta (C)",2016,234444
+16260,"Parramatta (C)",2017,243557
+16260,"Parramatta (C)",2018,251065
+16260,"Parramatta (C)",2019,257197
+16350,"Penrith (C)",2001,176277
+16350,"Penrith (C)",2002,176829
+16350,"Penrith (C)",2003,176610
+16350,"Penrith (C)",2004,175589
+16350,"Penrith (C)",2005,175799
+16350,"Penrith (C)",2006,176067
+16350,"Penrith (C)",2007,177280
+16350,"Penrith (C)",2008,179851
+16350,"Penrith (C)",2009,181901
+16350,"Penrith (C)",2010,182948
+16350,"Penrith (C)",2011,184589
+16350,"Penrith (C)",2012,187281
+16350,"Penrith (C)",2013,190527
+16350,"Penrith (C)",2014,193765
+16350,"Penrith (C)",2015,197678
+16350,"Penrith (C)",2016,201597
+16350,"Penrith (C)",2017,205220
+16350,"Penrith (C)",2018,208947
+16350,"Penrith (C)",2019,212977
+16380,"Port Macquarie-Hastings (A)",2001,64960
+16380,"Port Macquarie-Hastings (A)",2002,66573
+16380,"Port Macquarie-Hastings (A)",2003,67960
+16380,"Port Macquarie-Hastings (A)",2004,68987
+16380,"Port Macquarie-Hastings (A)",2005,69659
+16380,"Port Macquarie-Hastings (A)",2006,69947
+16380,"Port Macquarie-Hastings (A)",2007,71097
+16380,"Port Macquarie-Hastings (A)",2008,72528
+16380,"Port Macquarie-Hastings (A)",2009,73317
+16380,"Port Macquarie-Hastings (A)",2010,74460
+16380,"Port Macquarie-Hastings (A)",2011,75232
+16380,"Port Macquarie-Hastings (A)",2012,76271
+16380,"Port Macquarie-Hastings (A)",2013,77043
+16380,"Port Macquarie-Hastings (A)",2014,78048
+16380,"Port Macquarie-Hastings (A)",2015,78997
+16380,"Port Macquarie-Hastings (A)",2016,80073
+16380,"Port Macquarie-Hastings (A)",2017,81441
+16380,"Port Macquarie-Hastings (A)",2018,83062
+16380,"Port Macquarie-Hastings (A)",2019,84525
+16400,"Port Stephens (A)",2001,58509
+16400,"Port Stephens (A)",2002,59506
+16400,"Port Stephens (A)",2003,60410
+16400,"Port Stephens (A)",2004,61256
+16400,"Port Stephens (A)",2005,61918
+16400,"Port Stephens (A)",2006,62132
+16400,"Port Stephens (A)",2007,63425
+16400,"Port Stephens (A)",2008,64316
+16400,"Port Stephens (A)",2009,65521
+16400,"Port Stephens (A)",2010,66447
+16400,"Port Stephens (A)",2011,67214
+16400,"Port Stephens (A)",2012,68012
+16400,"Port Stephens (A)",2013,68750
+16400,"Port Stephens (A)",2014,69537
+16400,"Port Stephens (A)",2015,70257
+16400,"Port Stephens (A)",2016,71115
+16400,"Port Stephens (A)",2017,71772
+16400,"Port Stephens (A)",2018,72630
+16400,"Port Stephens (A)",2019,73481
+16490,"Queanbeyan-Palerang Regional (A)",2001,44289
+16490,"Queanbeyan-Palerang Regional (A)",2002,45669
+16490,"Queanbeyan-Palerang Regional (A)",2003,47142
+16490,"Queanbeyan-Palerang Regional (A)",2004,47783
+16490,"Queanbeyan-Palerang Regional (A)",2005,48886
+16490,"Queanbeyan-Palerang Regional (A)",2006,50070
+16490,"Queanbeyan-Palerang Regional (A)",2007,51002
+16490,"Queanbeyan-Palerang Regional (A)",2008,52141
+16490,"Queanbeyan-Palerang Regional (A)",2009,53190
+16490,"Queanbeyan-Palerang Regional (A)",2010,54250
+16490,"Queanbeyan-Palerang Regional (A)",2011,54844
+16490,"Queanbeyan-Palerang Regional (A)",2012,55408
+16490,"Queanbeyan-Palerang Regional (A)",2013,55920
+16490,"Queanbeyan-Palerang Regional (A)",2014,56537
+16490,"Queanbeyan-Palerang Regional (A)",2015,57130
+16490,"Queanbeyan-Palerang Regional (A)",2016,57790
+16490,"Queanbeyan-Palerang Regional (A)",2017,58816
+16490,"Queanbeyan-Palerang Regional (A)",2018,59889
+16490,"Queanbeyan-Palerang Regional (A)",2019,61100
+16550,"Randwick (C)",2001,124456
+16550,"Randwick (C)",2002,124390
+16550,"Randwick (C)",2003,124252
+16550,"Randwick (C)",2004,124088
+16550,"Randwick (C)",2005,124596
+16550,"Randwick (C)",2006,125346
+16550,"Randwick (C)",2007,128229
+16550,"Randwick (C)",2008,131136
+16550,"Randwick (C)",2009,133975
+16550,"Randwick (C)",2010,136006
+16550,"Randwick (C)",2011,137792
+16550,"Randwick (C)",2012,139836
+16550,"Randwick (C)",2013,142459
+16550,"Randwick (C)",2014,144814
+16550,"Randwick (C)",2015,146908
+16550,"Randwick (C)",2016,148922
+16550,"Randwick (C)",2017,152149
+16550,"Randwick (C)",2018,154145
+16550,"Randwick (C)",2019,155649
+16610,"Richmond Valley (A)",2001,21014
+16610,"Richmond Valley (A)",2002,21213
+16610,"Richmond Valley (A)",2003,21213
+16610,"Richmond Valley (A)",2004,21167
+16610,"Richmond Valley (A)",2005,21256
+16610,"Richmond Valley (A)",2006,21728
+16610,"Richmond Valley (A)",2007,22067
+16610,"Richmond Valley (A)",2008,22291
+16610,"Richmond Valley (A)",2009,22417
+16610,"Richmond Valley (A)",2010,22597
+16610,"Richmond Valley (A)",2011,22717
+16610,"Richmond Valley (A)",2012,22848
+16610,"Richmond Valley (A)",2013,22981
+16610,"Richmond Valley (A)",2014,23087
+16610,"Richmond Valley (A)",2015,23148
+16610,"Richmond Valley (A)",2016,23256
+16610,"Richmond Valley (A)",2017,23331
+16610,"Richmond Valley (A)",2018,23374
+16610,"Richmond Valley (A)",2019,23465
+16700,"Ryde (C)",2001,98516
+16700,"Ryde (C)",2002,98711
+16700,"Ryde (C)",2003,98929
+16700,"Ryde (C)",2004,99089
+16700,"Ryde (C)",2005,99527
+16700,"Ryde (C)",2006,100344
+16700,"Ryde (C)",2007,102453
+16700,"Ryde (C)",2008,104602
+16700,"Ryde (C)",2009,105983
+16700,"Ryde (C)",2010,107319
+16700,"Ryde (C)",2011,108712
+16700,"Ryde (C)",2012,111156
+16700,"Ryde (C)",2013,113547
+16700,"Ryde (C)",2014,115843
+16700,"Ryde (C)",2015,118499
+16700,"Ryde (C)",2016,121270
+16700,"Ryde (C)",2017,124619
+16700,"Ryde (C)",2018,127340
+16700,"Ryde (C)",2019,131271
+16900,"Shellharbour (C)",2001,59383
+16900,"Shellharbour (C)",2002,60054
+16900,"Shellharbour (C)",2003,60815
+16900,"Shellharbour (C)",2004,61382
+16900,"Shellharbour (C)",2005,61863
+16900,"Shellharbour (C)",2006,62243
+16900,"Shellharbour (C)",2007,62916
+16900,"Shellharbour (C)",2008,63956
+16900,"Shellharbour (C)",2009,64778
+16900,"Shellharbour (C)",2010,65597
+16900,"Shellharbour (C)",2011,66218
+16900,"Shellharbour (C)",2012,66840
+16900,"Shellharbour (C)",2013,67701
+16900,"Shellharbour (C)",2014,68658
+16900,"Shellharbour (C)",2015,69474
+16900,"Shellharbour (C)",2016,70391
+16900,"Shellharbour (C)",2017,71036
+16900,"Shellharbour (C)",2018,72160
+16900,"Shellharbour (C)",2019,73233
+16950,"Shoalhaven (C)",2001,86856
+16950,"Shoalhaven (C)",2002,88055
+16950,"Shoalhaven (C)",2003,88861
+16950,"Shoalhaven (C)",2004,89374
+16950,"Shoalhaven (C)",2005,90173
+16950,"Shoalhaven (C)",2006,90505
+16950,"Shoalhaven (C)",2007,91497
+16950,"Shoalhaven (C)",2008,92351
+16950,"Shoalhaven (C)",2009,93754
+16950,"Shoalhaven (C)",2010,95154
+16950,"Shoalhaven (C)",2011,96203
+16950,"Shoalhaven (C)",2012,97166
+16950,"Shoalhaven (C)",2013,98097
+16950,"Shoalhaven (C)",2014,99292
+16950,"Shoalhaven (C)",2015,100550
+16950,"Shoalhaven (C)",2016,101942
+16950,"Shoalhaven (C)",2017,103061
+16950,"Shoalhaven (C)",2018,104268
+16950,"Shoalhaven (C)",2019,105648
+17000,"Singleton (A)",2001,21066
+17000,"Singleton (A)",2002,21356
+17000,"Singleton (A)",2003,21671
+17000,"Singleton (A)",2004,21886
+17000,"Singleton (A)",2005,22254
+17000,"Singleton (A)",2006,22535
+17000,"Singleton (A)",2007,22663
+17000,"Singleton (A)",2008,22860
+17000,"Singleton (A)",2009,23063
+17000,"Singleton (A)",2010,23335
+17000,"Singleton (A)",2011,23523
+17000,"Singleton (A)",2012,23548
+17000,"Singleton (A)",2013,23557
+17000,"Singleton (A)",2014,23597
+17000,"Singleton (A)",2015,23586
+17000,"Singleton (A)",2016,23576
+17000,"Singleton (A)",2017,23499
+17000,"Singleton (A)",2018,23397
+17000,"Singleton (A)",2019,23461
+17040,"Snowy Monaro Regional (A)",2001,19440
+17040,"Snowy Monaro Regional (A)",2002,19571
+17040,"Snowy Monaro Regional (A)",2003,19710
+17040,"Snowy Monaro Regional (A)",2004,19762
+17040,"Snowy Monaro Regional (A)",2005,19866
+17040,"Snowy Monaro Regional (A)",2006,20008
+17040,"Snowy Monaro Regional (A)",2007,20073
+17040,"Snowy Monaro Regional (A)",2008,20147
+17040,"Snowy Monaro Regional (A)",2009,20241
+17040,"Snowy Monaro Regional (A)",2010,20335
+17040,"Snowy Monaro Regional (A)",2011,20386
+17040,"Snowy Monaro Regional (A)",2012,20403
+17040,"Snowy Monaro Regional (A)",2013,20433
+17040,"Snowy Monaro Regional (A)",2014,20454
+17040,"Snowy Monaro Regional (A)",2015,20473
+17040,"Snowy Monaro Regional (A)",2016,20558
+17040,"Snowy Monaro Regional (A)",2017,20665
+17040,"Snowy Monaro Regional (A)",2018,20714
+17040,"Snowy Monaro Regional (A)",2019,20795
+17080,"Snowy Valleys (A)",2001,15084
+17080,"Snowy Valleys (A)",2002,15018
+17080,"Snowy Valleys (A)",2003,15052
+17080,"Snowy Valleys (A)",2004,14793
+17080,"Snowy Valleys (A)",2005,14700
+17080,"Snowy Valleys (A)",2006,14684
+17080,"Snowy Valleys (A)",2007,14641
+17080,"Snowy Valleys (A)",2008,14575
+17080,"Snowy Valleys (A)",2009,14647
+17080,"Snowy Valleys (A)",2010,14728
+17080,"Snowy Valleys (A)",2011,14756
+17080,"Snowy Valleys (A)",2012,14741
+17080,"Snowy Valleys (A)",2013,14720
+17080,"Snowy Valleys (A)",2014,14690
+17080,"Snowy Valleys (A)",2015,14640
+17080,"Snowy Valleys (A)",2016,14611
+17080,"Snowy Valleys (A)",2017,14559
+17080,"Snowy Valleys (A)",2018,14516
+17080,"Snowy Valleys (A)",2019,14479
+17100,"Strathfield (A)",2001,29253
+17100,"Strathfield (A)",2002,29578
+17100,"Strathfield (A)",2003,30256
+17100,"Strathfield (A)",2004,31242
+17100,"Strathfield (A)",2005,32143
+17100,"Strathfield (A)",2006,33030
+17100,"Strathfield (A)",2007,34219
+17100,"Strathfield (A)",2008,35343
+17100,"Strathfield (A)",2009,36592
+17100,"Strathfield (A)",2010,37002
+17100,"Strathfield (A)",2011,37239
+17100,"Strathfield (A)",2012,37968
+17100,"Strathfield (A)",2013,38918
+17100,"Strathfield (A)",2014,40301
+17100,"Strathfield (A)",2015,41276
+17100,"Strathfield (A)",2016,42415
+17100,"Strathfield (A)",2017,43852
+17100,"Strathfield (A)",2018,45110
+17100,"Strathfield (A)",2019,46926
+17150,"Sutherland Shire (A)",2001,212458
+17150,"Sutherland Shire (A)",2002,212978
+17150,"Sutherland Shire (A)",2003,212719
+17150,"Sutherland Shire (A)",2004,211907
+17150,"Sutherland Shire (A)",2005,211460
+17150,"Sutherland Shire (A)",2006,211230
+17150,"Sutherland Shire (A)",2007,213161
+17150,"Sutherland Shire (A)",2008,216400
+17150,"Sutherland Shire (A)",2009,219065
+17150,"Sutherland Shire (A)",2010,220060
+17150,"Sutherland Shire (A)",2011,220250
+17150,"Sutherland Shire (A)",2012,221220
+17150,"Sutherland Shire (A)",2013,222549
+17150,"Sutherland Shire (A)",2014,223921
+17150,"Sutherland Shire (A)",2015,225218
+17150,"Sutherland Shire (A)",2016,226461
+17150,"Sutherland Shire (A)",2017,227695
+17150,"Sutherland Shire (A)",2018,228980
+17150,"Sutherland Shire (A)",2019,230611
+17200,"Sydney (C)",2001,128901
+17200,"Sydney (C)",2002,136368
+17200,"Sydney (C)",2003,145079
+17200,"Sydney (C)",2004,152892
+17200,"Sydney (C)",2005,158834
+17200,"Sydney (C)",2006,164597
+17200,"Sydney (C)",2007,169056
+17200,"Sydney (C)",2008,172985
+17200,"Sydney (C)",2009,177150
+17200,"Sydney (C)",2010,180748
+17200,"Sydney (C)",2011,183281
+17200,"Sydney (C)",2012,189543
+17200,"Sydney (C)",2013,196318
+17200,"Sydney (C)",2014,204516
+17200,"Sydney (C)",2015,214037
+17200,"Sydney (C)",2016,222717
+17200,"Sydney (C)",2017,233177
+17200,"Sydney (C)",2018,240102
+17200,"Sydney (C)",2019,246343
+17310,"Tamworth Regional (A)",2001,53557
+17310,"Tamworth Regional (A)",2002,53831
+17310,"Tamworth Regional (A)",2003,54016
+17310,"Tamworth Regional (A)",2004,54111
+17310,"Tamworth Regional (A)",2005,54363
+17310,"Tamworth Regional (A)",2006,54887
+17310,"Tamworth Regional (A)",2007,55607
+17310,"Tamworth Regional (A)",2008,56148
+17310,"Tamworth Regional (A)",2009,56814
+17310,"Tamworth Regional (A)",2010,57650
+17310,"Tamworth Regional (A)",2011,58228
+17310,"Tamworth Regional (A)",2012,58699
+17310,"Tamworth Regional (A)",2013,59240
+17310,"Tamworth Regional (A)",2014,59872
+17310,"Tamworth Regional (A)",2015,60432
+17310,"Tamworth Regional (A)",2016,60990
+17310,"Tamworth Regional (A)",2017,61615
+17310,"Tamworth Regional (A)",2018,62086
+17310,"Tamworth Regional (A)",2019,62541
+17350,"Temora (A)",2001,6288
+17350,"Temora (A)",2002,6221
+17350,"Temora (A)",2003,6123
+17350,"Temora (A)",2004,6039
+17350,"Temora (A)",2005,6016
+17350,"Temora (A)",2006,6008
+17350,"Temora (A)",2007,5977
+17350,"Temora (A)",2008,5959
+17350,"Temora (A)",2009,5936
+17350,"Temora (A)",2010,5951
+17350,"Temora (A)",2011,5953
+17350,"Temora (A)",2012,6002
+17350,"Temora (A)",2013,6055
+17350,"Temora (A)",2014,6098
+17350,"Temora (A)",2015,6165
+17350,"Temora (A)",2016,6210
+17350,"Temora (A)",2017,6239
+17350,"Temora (A)",2018,6267
+17350,"Temora (A)",2019,6307
+17400,"Tenterfield (A)",2001,6842
+17400,"Tenterfield (A)",2002,6808
+17400,"Tenterfield (A)",2003,6709
+17400,"Tenterfield (A)",2004,6650
+17400,"Tenterfield (A)",2005,6630
+17400,"Tenterfield (A)",2006,6666
+17400,"Tenterfield (A)",2007,6731
+17400,"Tenterfield (A)",2008,6796
+17400,"Tenterfield (A)",2009,6882
+17400,"Tenterfield (A)",2010,6941
+17400,"Tenterfield (A)",2011,6990
+17400,"Tenterfield (A)",2012,6925
+17400,"Tenterfield (A)",2013,6834
+17400,"Tenterfield (A)",2014,6769
+17400,"Tenterfield (A)",2015,6713
+17400,"Tenterfield (A)",2016,6697
+17400,"Tenterfield (A)",2017,6660
+17400,"Tenterfield (A)",2018,6631
+17400,"Tenterfield (A)",2019,6594
+17420,"The Hills Shire (A)",2001,117301
+17420,"The Hills Shire (A)",2002,122269
+17420,"The Hills Shire (A)",2003,126698
+17420,"The Hills Shire (A)",2004,130134
+17420,"The Hills Shire (A)",2005,133214
+17420,"The Hills Shire (A)",2006,136015
+17420,"The Hills Shire (A)",2007,138034
+17420,"The Hills Shire (A)",2008,141230
+17420,"The Hills Shire (A)",2009,144388
+17420,"The Hills Shire (A)",2010,146247
+17420,"The Hills Shire (A)",2011,147779
+17420,"The Hills Shire (A)",2012,149939
+17420,"The Hills Shire (A)",2013,152429
+17420,"The Hills Shire (A)",2014,155366
+17420,"The Hills Shire (A)",2015,158941
+17420,"The Hills Shire (A)",2016,162975
+17420,"The Hills Shire (A)",2017,167954
+17420,"The Hills Shire (A)",2018,172339
+17420,"The Hills Shire (A)",2019,177969
+17550,"Tweed (A)",2001,73980
+17550,"Tweed (A)",2002,75711
+17550,"Tweed (A)",2003,77868
+17550,"Tweed (A)",2004,79555
+17550,"Tweed (A)",2005,80382
+17550,"Tweed (A)",2006,81531
+17550,"Tweed (A)",2007,83060
+17550,"Tweed (A)",2008,84842
+17550,"Tweed (A)",2009,86539
+17550,"Tweed (A)",2010,87722
+17550,"Tweed (A)",2011,88437
+17550,"Tweed (A)",2012,89266
+17550,"Tweed (A)",2013,90226
+17550,"Tweed (A)",2014,91139
+17550,"Tweed (A)",2015,92261
+17550,"Tweed (A)",2016,93742
+17550,"Tweed (A)",2017,94909
+17550,"Tweed (A)",2018,96018
+17550,"Tweed (A)",2019,97001
+17620,"Upper Hunter Shire (A)",2001,13430
+17620,"Upper Hunter Shire (A)",2002,13415
+17620,"Upper Hunter Shire (A)",2003,13335
+17620,"Upper Hunter Shire (A)",2004,13235
+17620,"Upper Hunter Shire (A)",2005,13281
+17620,"Upper Hunter Shire (A)",2006,13333
+17620,"Upper Hunter Shire (A)",2007,13374
+17620,"Upper Hunter Shire (A)",2008,13599
+17620,"Upper Hunter Shire (A)",2009,13801
+17620,"Upper Hunter Shire (A)",2010,13983
+17620,"Upper Hunter Shire (A)",2011,14206
+17620,"Upper Hunter Shire (A)",2012,14388
+17620,"Upper Hunter Shire (A)",2013,14514
+17620,"Upper Hunter Shire (A)",2014,14508
+17620,"Upper Hunter Shire (A)",2015,14412
+17620,"Upper Hunter Shire (A)",2016,14344
+17620,"Upper Hunter Shire (A)",2017,14274
+17620,"Upper Hunter Shire (A)",2018,14208
+17620,"Upper Hunter Shire (A)",2019,14180
+17640,"Upper Lachlan Shire (A)",2001,7210
+17640,"Upper Lachlan Shire (A)",2002,7203
+17640,"Upper Lachlan Shire (A)",2003,7195
+17640,"Upper Lachlan Shire (A)",2004,7192
+17640,"Upper Lachlan Shire (A)",2005,7185
+17640,"Upper Lachlan Shire (A)",2006,7209
+17640,"Upper Lachlan Shire (A)",2007,7229
+17640,"Upper Lachlan Shire (A)",2008,7276
+17640,"Upper Lachlan Shire (A)",2009,7333
+17640,"Upper Lachlan Shire (A)",2010,7379
+17640,"Upper Lachlan Shire (A)",2011,7422
+17640,"Upper Lachlan Shire (A)",2012,7571
+17640,"Upper Lachlan Shire (A)",2013,7594
+17640,"Upper Lachlan Shire (A)",2014,7722
+17640,"Upper Lachlan Shire (A)",2015,7804
+17640,"Upper Lachlan Shire (A)",2016,7853
+17640,"Upper Lachlan Shire (A)",2017,7914
+17640,"Upper Lachlan Shire (A)",2018,7954
+17640,"Upper Lachlan Shire (A)",2019,8059
+17650,"Uralla (A)",2001,6052
+17650,"Uralla (A)",2002,6002
+17650,"Uralla (A)",2003,5912
+17650,"Uralla (A)",2004,5885
+17650,"Uralla (A)",2005,5888
+17650,"Uralla (A)",2006,5894
+17650,"Uralla (A)",2007,5930
+17650,"Uralla (A)",2008,5996
+17650,"Uralla (A)",2009,6129
+17650,"Uralla (A)",2010,6198
+17650,"Uralla (A)",2011,6241
+17650,"Uralla (A)",2012,6244
+17650,"Uralla (A)",2013,6253
+17650,"Uralla (A)",2014,6238
+17650,"Uralla (A)",2015,6194
+17650,"Uralla (A)",2016,6147
+17650,"Uralla (A)",2017,6106
+17650,"Uralla (A)",2018,6057
+17650,"Uralla (A)",2019,6012
+17750,"Wagga Wagga (C)",2001,56280
+17750,"Wagga Wagga (C)",2002,56718
+17750,"Wagga Wagga (C)",2003,56897
+17750,"Wagga Wagga (C)",2004,57211
+17750,"Wagga Wagga (C)",2005,57761
+17750,"Wagga Wagga (C)",2006,58518
+17750,"Wagga Wagga (C)",2007,59493
+17750,"Wagga Wagga (C)",2008,60329
+17750,"Wagga Wagga (C)",2009,61061
+17750,"Wagga Wagga (C)",2010,61503
+17750,"Wagga Wagga (C)",2011,61781
+17750,"Wagga Wagga (C)",2012,62104
+17750,"Wagga Wagga (C)",2013,62416
+17750,"Wagga Wagga (C)",2014,62776
+17750,"Wagga Wagga (C)",2015,63327
+17750,"Wagga Wagga (C)",2016,63906
+17750,"Wagga Wagga (C)",2017,64312
+17750,"Wagga Wagga (C)",2018,64743
+17750,"Wagga Wagga (C)",2019,65258
+17850,"Walcha (A)",2001,3282
+17850,"Walcha (A)",2002,3270
+17850,"Walcha (A)",2003,3257
+17850,"Walcha (A)",2004,3244
+17850,"Walcha (A)",2005,3244
+17850,"Walcha (A)",2006,3259
+17850,"Walcha (A)",2007,3210
+17850,"Walcha (A)",2008,3172
+17850,"Walcha (A)",2009,3154
+17850,"Walcha (A)",2010,3137
+17850,"Walcha (A)",2011,3119
+17850,"Walcha (A)",2012,3143
+17850,"Walcha (A)",2013,3150
+17850,"Walcha (A)",2014,3149
+17850,"Walcha (A)",2015,3128
+17850,"Walcha (A)",2016,3130
+17850,"Walcha (A)",2017,3146
+17850,"Walcha (A)",2018,3129
+17850,"Walcha (A)",2019,3134
+17900,"Walgett (A)",2001,8261
+17900,"Walgett (A)",2002,8049
+17900,"Walgett (A)",2003,7800
+17900,"Walgett (A)",2004,7517
+17900,"Walgett (A)",2005,7312
+17900,"Walgett (A)",2006,7129
+17900,"Walgett (A)",2007,6979
+17900,"Walgett (A)",2008,6883
+17900,"Walgett (A)",2009,6914
+17900,"Walgett (A)",2010,6908
+17900,"Walgett (A)",2011,6797
+17900,"Walgett (A)",2012,6701
+17900,"Walgett (A)",2013,6595
+17900,"Walgett (A)",2014,6512
+17900,"Walgett (A)",2015,6419
+17900,"Walgett (A)",2016,6317
+17900,"Walgett (A)",2017,6197
+17900,"Walgett (A)",2018,6044
+17900,"Walgett (A)",2019,5953
+17950,"Warren (A)",2001,3293
+17950,"Warren (A)",2002,3201
+17950,"Warren (A)",2003,3111
+17950,"Warren (A)",2004,3008
+17950,"Warren (A)",2005,2919
+17950,"Warren (A)",2006,2814
+17950,"Warren (A)",2007,2786
+17950,"Warren (A)",2008,2789
+17950,"Warren (A)",2009,2807
+17950,"Warren (A)",2010,2840
+17950,"Warren (A)",2011,2862
+17950,"Warren (A)",2012,2857
+17950,"Warren (A)",2013,2836
+17950,"Warren (A)",2014,2809
+17950,"Warren (A)",2015,2783
+17950,"Warren (A)",2016,2797
+17950,"Warren (A)",2017,2765
+17950,"Warren (A)",2018,2740
+17950,"Warren (A)",2019,2697
+18020,"Warrumbungle Shire (A)",2001,10762
+18020,"Warrumbungle Shire (A)",2002,10620
+18020,"Warrumbungle Shire (A)",2003,10446
+18020,"Warrumbungle Shire (A)",2004,10258
+18020,"Warrumbungle Shire (A)",2005,10155
+18020,"Warrumbungle Shire (A)",2006,10034
+18020,"Warrumbungle Shire (A)",2007,9952
+18020,"Warrumbungle Shire (A)",2008,9925
+18020,"Warrumbungle Shire (A)",2009,9930
+18020,"Warrumbungle Shire (A)",2010,9921
+18020,"Warrumbungle Shire (A)",2011,9898
+18020,"Warrumbungle Shire (A)",2012,9849
+18020,"Warrumbungle Shire (A)",2013,9743
+18020,"Warrumbungle Shire (A)",2014,9689
+18020,"Warrumbungle Shire (A)",2015,9622
+18020,"Warrumbungle Shire (A)",2016,9562
+18020,"Warrumbungle Shire (A)",2017,9456
+18020,"Warrumbungle Shire (A)",2018,9389
+18020,"Warrumbungle Shire (A)",2019,9278
+18050,"Waverley (A)",2001,62853
+18050,"Waverley (A)",2002,62832
+18050,"Waverley (A)",2003,62778
+18050,"Waverley (A)",2004,62988
+18050,"Waverley (A)",2005,63435
+18050,"Waverley (A)",2006,64294
+18050,"Waverley (A)",2007,65279
+18050,"Waverley (A)",2008,66458
+18050,"Waverley (A)",2009,67394
+18050,"Waverley (A)",2010,68082
+18050,"Waverley (A)",2011,68698
+18050,"Waverley (A)",2012,69294
+18050,"Waverley (A)",2013,70052
+18050,"Waverley (A)",2014,70742
+18050,"Waverley (A)",2015,71336
+18050,"Waverley (A)",2016,72013
+18050,"Waverley (A)",2017,73386
+18050,"Waverley (A)",2018,74040
+18050,"Waverley (A)",2019,74295
+18100,"Weddin (A)",2001,3826
+18100,"Weddin (A)",2002,3798
+18100,"Weddin (A)",2003,3768
+18100,"Weddin (A)",2004,3756
+18100,"Weddin (A)",2005,3737
+18100,"Weddin (A)",2006,3722
+18100,"Weddin (A)",2007,3710
+18100,"Weddin (A)",2008,3715
+18100,"Weddin (A)",2009,3720
+18100,"Weddin (A)",2010,3733
+18100,"Weddin (A)",2011,3759
+18100,"Weddin (A)",2012,3738
+18100,"Weddin (A)",2013,3723
+18100,"Weddin (A)",2014,3706
+18100,"Weddin (A)",2015,3688
+18100,"Weddin (A)",2016,3677
+18100,"Weddin (A)",2017,3643
+18100,"Weddin (A)",2018,3632
+18100,"Weddin (A)",2019,3613
+18200,"Wentworth (A)",2001,7156
+18200,"Wentworth (A)",2002,7078
+18200,"Wentworth (A)",2003,7009
+18200,"Wentworth (A)",2004,6946
+18200,"Wentworth (A)",2005,6915
+18200,"Wentworth (A)",2006,6926
+18200,"Wentworth (A)",2007,6963
+18200,"Wentworth (A)",2008,6964
+18200,"Wentworth (A)",2009,6932
+18200,"Wentworth (A)",2010,6910
+18200,"Wentworth (A)",2011,6837
+18200,"Wentworth (A)",2012,6847
+18200,"Wentworth (A)",2013,6848
+18200,"Wentworth (A)",2014,6877
+18200,"Wentworth (A)",2015,6890
+18200,"Wentworth (A)",2016,6932
+18200,"Wentworth (A)",2017,6977
+18200,"Wentworth (A)",2018,7033
+18200,"Wentworth (A)",2019,7053
+18250,"Willoughby (C)",2001,61399
+18250,"Willoughby (C)",2002,62785
+18250,"Willoughby (C)",2003,63389
+18250,"Willoughby (C)",2004,64414
+18250,"Willoughby (C)",2005,65578
+18250,"Willoughby (C)",2006,66481
+18250,"Willoughby (C)",2007,67809
+18250,"Willoughby (C)",2008,68434
+18250,"Willoughby (C)",2009,69512
+18250,"Willoughby (C)",2010,70256
+18250,"Willoughby (C)",2011,71139
+18250,"Willoughby (C)",2012,72119
+18250,"Willoughby (C)",2013,73072
+18250,"Willoughby (C)",2014,74238
+18250,"Willoughby (C)",2015,75970
+18250,"Willoughby (C)",2016,77888
+18250,"Willoughby (C)",2017,79757
+18250,"Willoughby (C)",2018,80274
+18250,"Willoughby (C)",2019,81189
+18350,"Wingecarribee (A)",2001,42384
+18350,"Wingecarribee (A)",2002,42980
+18350,"Wingecarribee (A)",2003,43257
+18350,"Wingecarribee (A)",2004,43348
+18350,"Wingecarribee (A)",2005,43402
+18350,"Wingecarribee (A)",2006,43532
+18350,"Wingecarribee (A)",2007,44054
+18350,"Wingecarribee (A)",2008,44539
+18350,"Wingecarribee (A)",2009,45165
+18350,"Wingecarribee (A)",2010,45761
+18350,"Wingecarribee (A)",2011,46126
+18350,"Wingecarribee (A)",2012,46467
+18350,"Wingecarribee (A)",2013,46964
+18350,"Wingecarribee (A)",2014,47470
+18350,"Wingecarribee (A)",2015,48150
+18350,"Wingecarribee (A)",2016,48998
+18350,"Wingecarribee (A)",2017,49675
+18350,"Wingecarribee (A)",2018,50452
+18350,"Wingecarribee (A)",2019,51134
+18400,"Wollondilly (A)",2001,38178
+18400,"Wollondilly (A)",2002,38513
+18400,"Wollondilly (A)",2003,39215
+18400,"Wollondilly (A)",2004,39830
+18400,"Wollondilly (A)",2005,40411
+18400,"Wollondilly (A)",2006,40969
+18400,"Wollondilly (A)",2007,41589
+18400,"Wollondilly (A)",2008,42401
+18400,"Wollondilly (A)",2009,43145
+18400,"Wollondilly (A)",2010,43828
+18400,"Wollondilly (A)",2011,44607
+18400,"Wollondilly (A)",2012,45439
+18400,"Wollondilly (A)",2013,46399
+18400,"Wollondilly (A)",2014,47445
+18400,"Wollondilly (A)",2015,48562
+18400,"Wollondilly (A)",2016,49854
+18400,"Wollondilly (A)",2017,51036
+18400,"Wollondilly (A)",2018,52171
+18400,"Wollondilly (A)",2019,53149
+18450,"Wollongong (C)",2001,188275
+18450,"Wollongong (C)",2002,189851
+18450,"Wollongong (C)",2003,190475
+18450,"Wollongong (C)",2004,190641
+18450,"Wollongong (C)",2005,190721
+18450,"Wollongong (C)",2006,190909
+18450,"Wollongong (C)",2007,192770
+18450,"Wollongong (C)",2008,195437
+18450,"Wollongong (C)",2009,197887
+18450,"Wollongong (C)",2010,200468
+18450,"Wollongong (C)",2011,202068
+18450,"Wollongong (C)",2012,203045
+18450,"Wollongong (C)",2013,204707
+18450,"Wollongong (C)",2014,206415
+18450,"Wollongong (C)",2015,208313
+18450,"Wollongong (C)",2016,210394
+18450,"Wollongong (C)",2017,213281
+18450,"Wollongong (C)",2018,215856
+18450,"Wollongong (C)",2019,218114
+18500,"Woollahra (A)",2001,52677
+18500,"Woollahra (A)",2002,52792
+18500,"Woollahra (A)",2003,52998
+18500,"Woollahra (A)",2004,52723
+18500,"Woollahra (A)",2005,52655
+18500,"Woollahra (A)",2006,52995
+18500,"Woollahra (A)",2007,53564
+18500,"Woollahra (A)",2008,54076
+18500,"Woollahra (A)",2009,54862
+18500,"Woollahra (A)",2010,55497
+18500,"Woollahra (A)",2011,56320
+18500,"Woollahra (A)",2012,56601
+18500,"Woollahra (A)",2013,56909
+18500,"Woollahra (A)",2014,57253
+18500,"Woollahra (A)",2015,57513
+18500,"Woollahra (A)",2016,57744
+18500,"Woollahra (A)",2017,58504
+18500,"Woollahra (A)",2018,58908
+18500,"Woollahra (A)",2019,59387
+18710,"Yass Valley (A)",2001,12002
+18710,"Yass Valley (A)",2002,12366
+18710,"Yass Valley (A)",2003,12772
+18710,"Yass Valley (A)",2004,13058
+18710,"Yass Valley (A)",2005,13247
+18710,"Yass Valley (A)",2006,13500
+18710,"Yass Valley (A)",2007,13916
+18710,"Yass Valley (A)",2008,14310
+18710,"Yass Valley (A)",2009,14714
+18710,"Yass Valley (A)",2010,15227
+18710,"Yass Valley (A)",2011,15615
+18710,"Yass Valley (A)",2012,15808
+18710,"Yass Valley (A)",2013,16010
+18710,"Yass Valley (A)",2014,16188
+18710,"Yass Valley (A)",2015,16356
+18710,"Yass Valley (A)",2016,16568
+18710,"Yass Valley (A)",2017,16747
+18710,"Yass Valley (A)",2018,16936
+18710,"Yass Valley (A)",2019,17087
+19399,"Unincorporated NSW",2001,1210
+19399,"Unincorporated NSW",2002,1189
+19399,"Unincorporated NSW",2003,1162
+19399,"Unincorporated NSW",2004,1135
+19399,"Unincorporated NSW",2005,1114
+19399,"Unincorporated NSW",2006,1095
+19399,"Unincorporated NSW",2007,1100
+19399,"Unincorporated NSW",2008,1107
+19399,"Unincorporated NSW",2009,1107
+19399,"Unincorporated NSW",2010,1114
+19399,"Unincorporated NSW",2011,1119
+19399,"Unincorporated NSW",2012,1124
+19399,"Unincorporated NSW",2013,1127
+19399,"Unincorporated NSW",2014,1134
+19399,"Unincorporated NSW",2015,1106
+19399,"Unincorporated NSW",2016,1112
+19399,"Unincorporated NSW",2017,1085
+19399,"Unincorporated NSW",2018,1079
+19399,"Unincorporated NSW",2019,1026
+19499,"No usual address (NSW)",2001,0
+19499,"No usual address (NSW)",2002,0
+19499,"No usual address (NSW)",2003,0
+19499,"No usual address (NSW)",2004,0
+19499,"No usual address (NSW)",2005,0
+19499,"No usual address (NSW)",2006,0
+19499,"No usual address (NSW)",2007,0
+19499,"No usual address (NSW)",2008,0
+19499,"No usual address (NSW)",2009,0
+19499,"No usual address (NSW)",2010,0
+19499,"No usual address (NSW)",2011,0
+19499,"No usual address (NSW)",2012,0
+19499,"No usual address (NSW)",2013,0
+19499,"No usual address (NSW)",2014,0
+19499,"No usual address (NSW)",2015,0
+19499,"No usual address (NSW)",2016,0
+19499,"No usual address (NSW)",2017,0
+19499,"No usual address (NSW)",2018,0
+19499,"No usual address (NSW)",2019,0
+19799,"Migratory - Offshore - Shipping (NSW)",2001,0
+19799,"Migratory - Offshore - Shipping (NSW)",2002,0
+19799,"Migratory - Offshore - Shipping (NSW)",2003,0
+19799,"Migratory - Offshore - Shipping (NSW)",2004,0
+19799,"Migratory - Offshore - Shipping (NSW)",2005,0
+19799,"Migratory - Offshore - Shipping (NSW)",2006,0
+19799,"Migratory - Offshore - Shipping (NSW)",2007,0
+19799,"Migratory - Offshore - Shipping (NSW)",2008,0
+19799,"Migratory - Offshore - Shipping (NSW)",2009,0
+19799,"Migratory - Offshore - Shipping (NSW)",2010,0
+19799,"Migratory - Offshore - Shipping (NSW)",2011,0
+19799,"Migratory - Offshore - Shipping (NSW)",2012,0
+19799,"Migratory - Offshore - Shipping (NSW)",2013,0
+19799,"Migratory - Offshore - Shipping (NSW)",2014,0
+19799,"Migratory - Offshore - Shipping (NSW)",2015,0
+19799,"Migratory - Offshore - Shipping (NSW)",2016,0
+19799,"Migratory - Offshore - Shipping (NSW)",2017,0
+19799,"Migratory - Offshore - Shipping (NSW)",2018,0
+19799,"Migratory - Offshore - Shipping (NSW)",2019,0
