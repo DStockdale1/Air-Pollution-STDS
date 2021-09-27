@@ -84,4 +84,4 @@ aqi_Site_LGA_Key <- aqi_site_unique %>%
   select(SiteName, Longitude, Latitude) %>% 
   unique()
 
-save.csv
+write.csv(aqi_Site_LGA_Key, "C:/Users/willi/OneDrive/Desktop/AQI_Site_LGA_Key.csv", row.names = FALSE)

@@ -40,11 +40,12 @@ load("Datasets to merge/Raw Data/AQI_Data.Rda")
 AQI_Site_LGA_Key <- read_csv("AQI_Data/AQI_Site_LGA_Key.csv")
 load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
 
-AQI_Summarized_Data <- AQI_Summarized_Data %>% 
+AQI_merged_Data <- AQI_Summarized_Data %>% 
   merge(df_site_details) %>% 
   merge(AQI_Site_LGA_Key) %>% 
   group_by(LGA, Year, Parameter.ParameterCode, Parameter.ParameterDescription, Parameter.Units) %>% 
-  summarize(Value = mean(Value))
+  summarize(Value = mean(Value)) %>% 
+  arrange(Parameter.ParameterCode, LGA, Year)
 
 
 
