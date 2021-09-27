@@ -46,12 +46,42 @@ map <- leaflet(m) %>%
       color        = "#white",
       dashArray    = "",
       bringToFront = TRUE),
-    label        = c(m$LGA_NAME)) %>%
+    label        = c(m$LGA_NAME),
+    popup = m$LGA_NAME16) %>%
   
   addLegend(pal      = mypalette, 
             values   = ~LOG_POP_DENS, 
             opacity  = 0.7, 
             title    = "Log10 of Population Density log(People/km)",
-            position = "bottomright")
+            position = "bottomright") %>% 
+  addTiles() %>%
+  addMarkers(aqi_site_unique$Longitude, 
+             aqi_site_unique$Latitude, 
+             popup = aqi_site_unique$site_year)
 
 map
+
+
+aqi_site_unique <- AQI_Summarized_Data %>%
+  select(SiteName, Year, Longitude, Latitude) %>%
+  unique()
+
+aqi_site_unique <- aqi_site_year_unique %>%
+  mutate(site_year = paste(SiteName)) %>%
+  group_by(Latitude, Longitude)
+
+# adding markers
+aqi_map <- leaflet() %>%
+  addTiles() %>%
+  addMarkers(aqi_site_unique$Longitude, 
+             aqi_site_unique$Latitude, 
+             popup = aqi_site_unique$site_year) 
+aqi_map
+
+
+
+aqi_Site_LGA_Key <- aqi_site_unique %>% 
+  select(SiteName, Longitude, Latitude) %>% 
+  unique()
+
+save.csv

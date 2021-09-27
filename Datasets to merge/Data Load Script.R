@@ -5,7 +5,7 @@ library(readxl)
 
 setwd("C:/Users/NASA/Desktop/UTS-MDSI/36103 Statistical Thinking for Data Science/AT2/Air-Pollution/Datasets to merge/Raw Data")
 
-Population_Data <- read_csv("Population_Data.csv", 
+Population_Data <- read_csv("Datasets to merge/Raw Data/Population_Data.csv", 
                             col_types = cols(MEASURE = col_skip(), 
                                              Measure = col_skip(), REGIONTYPE = col_skip(), 
                                              `Geography Level` = col_skip(), FREQUENCY = col_skip(), 
@@ -26,19 +26,26 @@ Suburb_LGA <- read_xlsx("Suburb_and_LGA_PercentageArea.xlsx")
   
   
 } # Load Pollutants Data
-
+ 
 
 {
-<<<<<<< HEAD
   load("AQI_Data.Rda")
-=======
+  
   load("Datasets to merge/Raw Data/AQI_Data.Rda")
   load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
->>>>>>> f6ab82fafe7937dd41781c0a7b3a2be482bf3046
+  
 } # Load AQI Data
 
+load("Datasets to merge/Raw Data/AQI_Data.Rda")
+AQI_Site_LGA_Key <- read_csv("AQI_Data/AQI_Site_LGA_Key.csv")
+load("Datasets to merge/Raw Data/AQI Data/Air Quality Site Details.Rda")
+
 AQI_Summarized_Data <- AQI_Summarized_Data %>% 
-  merge(df_site_details)
+  merge(df_site_details) %>% 
+  merge(AQI_Site_LGA_Key) %>% 
+  group_by(LGA, Year, Parameter.ParameterCode, Parameter.ParameterDescription, Parameter.Units) %>% 
+  summarize(Value = mean(Value))
+
 
 
 
