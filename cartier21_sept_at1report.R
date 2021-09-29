@@ -1,6 +1,8 @@
 library(magrittr)
 library(mgsub)
 "%notin%" <- Negate("%in%")
+library(tidyverse)
+library(readxl)
 
 # Data Data ---------------------------------------------------------------
 
@@ -84,7 +86,7 @@ Population_Data_merged_1 <- Population_Data_merged %>%
   mutate(population_Test = round((population_number * percentage / 100), 0)) %>% 
   select(LGA, Year, population_Test) %>% 
   group_by(LGA, Year) %>% 
-  summarise(population_Test = sum(population_Test))
+  summarise(population_Test = max(population_Test))
 
 
 AQI_merged_Data <- AQI_Summarized_Data %>% 
