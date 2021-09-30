@@ -1,6 +1,7 @@
 library(magrittr)
 library(ggplot2)
 library(lmtest)
+library(dplyr)
 
 setwd("/Users/cartierzhi/Documents/MDSI/s2/STDS/AT2/Air-Pollution-STDS")
 
@@ -32,8 +33,8 @@ Traffic_CO[79,4] <- ceiling(17724/0.01762819 * 0.38023958)
 
 ##########################CO EDA############################################
 # Correlations and relationships
-cor_matrix <- cor(Traffic_CO[2:4])
-corrplot::corrplot(cor_matrix) # positive rel between traffic and CO
+cor_matrixCO <- cor(Traffic_CO[2:4])
+corrplot::corrplot(cor_matrixCO) # positive rel between traffic and CO
                                 # negative rel between year with CO and traffic 
 pairs(Traffic_CO[2:4])
 
@@ -58,6 +59,7 @@ ggplot(Traffic_CO, aes(x = Traffic_Test, y = Value)) +
        y = "Carbon Monoxide (parts per million/ppm)") +
   geom_text(label = Traffic_CO$concat_LGA) +
   geom_smooth(method = lm)
+
 ################################ NO cleaning  ##################################
 Traffic_NO <- Full_Data_merged %>%
   filter(Parameter.ParameterCode == "NO") %>%
@@ -148,8 +150,8 @@ Traffic_NO[c(which(is.na(Traffic_NO$Traffic_Test))),]
 
 ##########################NO EDA############################################
 # Correlations and relationships
-cor_matrix <- cor(Traffic_NO[2:4])
-corrplot::corrplot(cor_matrix) # positive rel between value with traffic and year
+cor_matrixNO <- cor(Traffic_NO[2:4])
+corrplot::corrplot(cor_matrixNO) # positive rel between value with traffic and year
 # negative rel between year with traffic 
 
 pairs(Traffic_NO[2:4]) # outliers
@@ -267,8 +269,8 @@ Traffic_NO2[c(which(is.na(Traffic_NO2$Traffic_Test))),]
 
 ##########################NO2 EDA############################################
 # Correlations and relationships
-cor_matrix <- cor(Traffic_NO2[2:4])
-corrplot::corrplot(cor_matrix) # positive rel between value with traffic 
+cor_matrixNO2 <- cor(Traffic_NO2[2:4])
+corrplot::corrplot(cor_matrixNO2) # positive rel between value with traffic 
 # negative rel between year with traffic 
 
 pairs(Traffic_NO2[2:4]) # outliers
@@ -294,7 +296,9 @@ ggplot(Traffic_NO2, aes(x = Traffic_Test, y = Value)) +
 
 #removing outliers
 Traffic_NO2 <- Traffic_NO2[-c(which(Traffic_NO2["LGA"] == "NORTH SYDNEY")),]
-
+Traffic_NO2 <- Traffic_NO2[-c(which(Traffic_NO2["LGA"] == "NEWCASTLE" 
+                                    & Traffic_NO2["Year"] == 2010)),]
+# renaming columns
 Traffic_CO <- rename(Traffic_CO, CO_value = Value)
 Traffic_NO <- rename(Traffic_NO, NO_value = Value)
 Traffic_NO2 <- rename(Traffic_NO2, NO2_value = Value)
@@ -345,7 +349,16 @@ summary(NO_traffic1)$coefficients
 par(mfrow = c(2, 2))
 plot(NO_traffic1)
 
-bptest(NO_traffic1) #confirming residuals homoscedasticity
+bptest(NO_traffic1) #confirming residuals heteroscedasticity
+
+NO_traffic2 <- lm(log(NO_value) ~ LGA*Year + LGA*Traffic_Test - Traffic_Test, data = Traffic_NO)
+summary(NO_traffic2)
+summary(NO_traffic2)$sigma # RSE
+summary(NO_traffic2)$r.squared # R ^ 2
+summary(NO_traffic2)$coefficients
+par(mfrow = c(2, 2))
+plot(NO_traffic2)
+bptest(NO_traffic2) #confirming residuals homoscedasticity
 
 ############### NO2 Regression################
 NO2_traffic <- lm(NO2_value ~ ., data = Traffic_NO2)
@@ -375,3 +388,4 @@ par(mfrow = c(2, 2))
 plot(NO2_traffic2)
 
 bptest(NO2_traffic2) #residuals not confirmed heteroscedastic
+
