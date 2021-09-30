@@ -178,6 +178,14 @@ ggplot(Traffic_NO, aes(x = Traffic_Test, y = Value)) +
 #removing outliers
 Traffic_NO <- Traffic_NO[-c(which(Traffic_NO["LGA"] == "NORTH SYDNEY")),]
 
+ggplot(Traffic_NO, aes(x = Traffic_Test, y = Value)) +
+  geom_point() +
+  labs(title = "Relationship Between Traffic Volume and Nitric oxide",
+       x = "Traffic Volume (number of vehicles)",
+       y = "Nitric oxide (parts per million/ppm)") +
+  geom_text(label = Traffic_NO$concat_LGA) +
+  geom_smooth(method = lm)
+
 ##################NO2 Cleaning#################################################
 Traffic_NO2 <- Full_Data_merged %>%
   filter(Parameter.ParameterCode == "NO2") %>%
@@ -298,6 +306,15 @@ ggplot(Traffic_NO2, aes(x = Traffic_Test, y = Value)) +
 Traffic_NO2 <- Traffic_NO2[-c(which(Traffic_NO2["LGA"] == "NORTH SYDNEY")),]
 Traffic_NO2 <- Traffic_NO2[-c(which(Traffic_NO2["LGA"] == "NEWCASTLE" 
                                     & Traffic_NO2["Year"] == 2010)),]
+
+ggplot(Traffic_NO2, aes(x = Traffic_Test, y = Value)) +
+  geom_point() +
+  labs(title = "Relationship Between Traffic Volume and Nitrogen Dioxide ",
+       x = "Traffic Volume (number of vehicles)",
+       y = "Nitrogen Dioxide  (parts per million/ppm)") +
+  geom_text(label = Traffic_NO2$concat_LGA) +
+  geom_smooth(method = lm)
+
 # renaming columns
 Traffic_CO <- rename(Traffic_CO, CO_value = Value)
 Traffic_NO <- rename(Traffic_NO, NO_value = Value)
