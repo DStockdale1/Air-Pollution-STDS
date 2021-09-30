@@ -346,7 +346,15 @@ summary(CO_traffic2)$coefficients
 par(mfrow = c(2, 2))
 plot(CO_traffic2)
 
-bptest(CO_traffic2) # testing if residuals homoscedastic (i.e. null hypothesis)
+CO_traffic3 <- lm(CO_value ~ Traffic_Test + Year*LGA, data = Traffic_CO)
+summary(CO_traffic3)
+summary(CO_traffic3)$sigma # RSE
+summary(CO_traffic3)$r.squared # R ^ 2
+summary(CO_traffic3)$coefficients 
+par(mfrow = c(2, 2))
+plot(CO_traffic3)
+
+bptest(CO_traffic3) # testing if residuals homoscedastic (i.e. null hypothesis)
 #not rejected
 
 ##################################### NO Regression################
@@ -358,7 +366,7 @@ summary(NO_traffic)$coefficients
 par(mfrow = c(2, 2))
 plot(NO_traffic)
 
-NO_traffic1 <- lm(NO_value ~ LGA*Year + LGA*Traffic_Test - Traffic_Test, data = Traffic_NO)
+NO_traffic1 <- lm(NO_value ~ LGA*Year, data = Traffic_NO)
 summary(NO_traffic1)
 summary(NO_traffic1)$sigma # RSE
 summary(NO_traffic1)$r.squared # R ^ 2
@@ -366,16 +374,7 @@ summary(NO_traffic1)$coefficients
 par(mfrow = c(2, 2))
 plot(NO_traffic1)
 
-bptest(NO_traffic1) #confirming residuals heteroscedasticity
-
-NO_traffic2 <- lm(log(NO_value) ~ LGA*Year + LGA*Traffic_Test - Traffic_Test, data = Traffic_NO)
-summary(NO_traffic2)
-summary(NO_traffic2)$sigma # RSE
-summary(NO_traffic2)$r.squared # R ^ 2
-summary(NO_traffic2)$coefficients
-par(mfrow = c(2, 2))
-plot(NO_traffic2)
-bptest(NO_traffic2) #confirming residuals homoscedasticity
+bptest(NO_traffic1) #confirming residuals homoscedasticity
 
 ############### NO2 Regression################
 NO2_traffic <- lm(NO2_value ~ ., data = Traffic_NO2)
