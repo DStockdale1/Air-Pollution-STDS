@@ -135,7 +135,7 @@ Traffic_Data_LGA <- Traffic_Data %>%
   summarise(Traffic_Test = sum(Traffic_Test))
 
 
-Full_Data_merged <- AQI_merged_Data %>% 
+Full_Data_merged <- Pop_AQI_merged_Data %>% 
   merge(Traffic_Data_LGA, by = c("LGA", "Year"), all = TRUE)
 
 

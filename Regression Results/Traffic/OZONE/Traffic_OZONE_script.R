@@ -20,3 +20,4 @@ ggplot(data = OZONE_Filtered_Data, aes(x = Traffic_Test, y = Value)) + geom_poin
   labs(title = "Ozone vs Recorded Traffic", x = "Recorded Traffic (count)", y = "OZONE (pphm)")
 
 plot(OZONE_slm) #Scale location!!!
+

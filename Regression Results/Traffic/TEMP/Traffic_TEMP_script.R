@@ -20,3 +20,4 @@ ggplot(data = TEMP_Filtered_Data, aes(x = Traffic_Test, y = Value)) + geom_point
   labs(title = "Temperature vs Recorded Traffic", x = "Recorded Traffic", y = expression("Temperature " ( degree*C)))
 
 plot(TEMP_slm) #Scale location!!!
+
