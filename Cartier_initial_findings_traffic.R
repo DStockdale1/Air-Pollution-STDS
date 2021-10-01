@@ -1,25 +1,13 @@
 library(magrittr)
-library(ggplot2)
-library(dplyr)
-
-#### load traffic data ####
-Traffic_Data <- read.csv("Traffic_Volume_Viewer_2007-2021.csv")
-
-#### deleting geom variable ####
-Traffic_Data <- Traffic_Data %>%
-  select(-the_geom)
-head(Traffic_Data)
 
 #### splitting the traffic data ####
 # new traffic data location object (latitude and longitude, suburb, road_name and station id)
 Traffic_Data_location <- Traffic_Data[1:3] # station_id, road, suburb 
 Traffic_Data_location <- cbind(Traffic_Data_location, Traffic_Data[9:10]) # adding longitude and latitude
-head(Traffic_Data_location)
 
 #### new traffic data excluding location info ####
 Traffic_Data <- Traffic_Data[4:8] # new traffic data excl location data
 Traffic_Data <- cbind(Traffic_Data, Traffic_Data_location[1]) # adding station id back
-head(Traffic_Data)
 
 #### initial look ####
 summary(Traffic_Data)
